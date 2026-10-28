@@ -29,9 +29,13 @@ const shaoxuan = {
 
 ### [Kesty — 学习管理应用](https://github.com/yuxuan-518/kesty-support)
 
-使用 SwiftUI 探索任务管理与专注计时的应用实验，开发过程中使用了 AI 辅助。
+Kesty 帮助学生规划长期学习任务和大型项目。当大学申请、考试准备和研究任务同时推进时，用户可以把 Common App 申请、课外项目或论文等设为目标，再将每个目标拆分成具体的小任务。无论是撰写文书、准备项目材料、整理数据，还是推导公式，都可以安排到每天逐步完成，帮助学生稳步推进目标、规划时间。
 
-[中文介绍与演示](https://github.com/yuxuan-518/kesty-support/blob/main/README.zh-CN.md)
+**技术实现：**Kesty 是一款使用 Swift 和 SwiftUI 构建的原生 iOS 应用。各个 SwiftUI 页面通过 `ObservableObject` 共享应用状态；Codable 数据模型用于描述个人资料、任务、目标、计划和专注记录。应用使用 `UserDefaults` 和 JSON 编码在设备本地保存数据，目前尚未实现云端数据库同步。
+
+**我的贡献：**我负责应用架构、数据组织和核心功能结构的设计。GPT 根据我定义的设计和需求，辅助编写 Swift 与 SwiftUI 代码。
+
+[源代码与演示](https://github.com/yuxuan-518/kesty-support#readme)
 
 ---
 
