@@ -2,8 +2,6 @@
 
 **Embedded systems · Sensors · Software**
 
-I'm a student exploring how hardware and software work together. My projects include a wearable sensor prototype and a study-management app.
-
 [简体中文](https://github.com/yuxuan-518/yuxuan-518/blob/main/README.zh-CN.md)
 
 ## About me
