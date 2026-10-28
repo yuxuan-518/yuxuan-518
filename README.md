@@ -21,9 +21,9 @@ const shaoxuan = {
 
 During **Cooper Union Summer STEM**, Alex Wang and I noticed wrist discomfort after long hours at a computer and began researching carpal tunnel syndrome. That exploration led us to a more focused design question: **Could a simple wearable help someone notice their wrist posture during computer use?** [NHS overview](https://www.nhs.uk/conditions/carpal-tunnel-syndrome/)
 
-**Design process:** We narrowed the broad health concern to one behavior a prototype could respond to: the hand bending up or down relative to the forearm. We explored placing one motion sensor on each and using feedback to draw attention to wrist posture. This gave us a concrete idea to build and investigate.
+**Design process:** We narrowed the broad health concern to one behavior a prototype could respond to: the hand bending up or down relative to the forearm. We explored placing one motion sensor on the hand and another on the forearm, then using feedback to draw attention to wrist posture. This gave us a concrete idea to build and investigate.
 
-*Technical note: The prototype compares motion data from two MPU6050 sensors and provides LED feedback. The repository also contains a buzzer module that the final main program does not call.*
+*Technical note: The prototype compares motion data from two MPU6050 sensors and provides LED feedback.*
 
 **My contribution:** I proposed the dual-sensor design and wrote its initial MPU6050 code. I also explored vector calculations and data processing, and contributed early serial-output and feedback modules. [Contribution history](https://github.com/yuxuan-518/carpal-tunnel-detection#team-contributions)
 
