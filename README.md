@@ -19,9 +19,7 @@ const shaoxuan = {
 
 ### [Dual-MPU6050 Posture Feedback Prototype](https://github.com/yuxuan-518/carpal-tunnel-detection)
 
-A wrist-posture reminder developed with **Alex Wang** during **Cooper Union Summer STEM**. It uses two sensors and LED alerts to help users notice and adjust their wrist posture.
-
-**My contribution:** proposed the dual-sensor design, wrote the initial dual-MPU6050 code, developed vector calculations and data-processing experiments, and contributed serial-output and feedback modules.
+We wanted to help people notice their wrist posture during long periods of computer use and avoid staying in awkward positions. This project grew from that goal during **Cooper Union Summer STEM**, in collaboration with **Alex Wang**.
 
 [Photo & demo](https://github.com/yuxuan-518/carpal-tunnel-detection#prototype-and-demo) · [Design rationale](https://github.com/yuxuan-518/carpal-tunnel-detection#why-two-mpu6050-sensors) · [Team contributions](https://github.com/yuxuan-518/carpal-tunnel-detection#team-contributions)
 
