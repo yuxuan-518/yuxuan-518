@@ -29,9 +29,13 @@ During **Cooper Union Summer STEM**, Alex Wang and I researched carpal tunnel sy
 
 ### [Kesty — Study Management App](https://github.com/yuxuan-518/kesty-support)
 
-A SwiftUI app experiment exploring task management and focus sessions, developed with AI assistance.
+Kesty helps students organize long-term academic work and large projects. When college applications, exam preparation, and research overlap, users can create goals such as completing the Common App, developing extracurricular projects, or writing a research paper, then break each goal into smaller tasks. Tasks such as drafting essays, preparing project materials, organizing data, or deriving formulas can be scheduled across individual days, helping students make steady progress and manage their time.
 
-[Source & demo](https://github.com/yuxuan-518/kesty-support#readme)
+**Technical approach:** Kesty is a native iOS app built with Swift and SwiftUI. SwiftUI views share application state through an `ObservableObject`; Codable data models represent profiles, tasks, goals, plans, and focus sessions. The app stores data locally with `UserDefaults` and JSON encoding. Cloud database synchronization is not currently implemented.
+
+**My contribution:** I led the app’s architecture, data organization, and structure for its core features. GPT assisted with writing the Swift and SwiftUI code based on the design and requirements I defined.
+
+[Source code and demo](https://github.com/yuxuan-518/kesty-support#readme)
 
 ---
 
