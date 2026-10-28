@@ -19,7 +19,7 @@ const shaoxuan = {
 
 ### [Dual-MPU6050 Posture Feedback Prototype](https://github.com/yuxuan-518/carpal-tunnel-detection)
 
-A wearable embedded-systems project developed with **Alex Wang** during **Cooper Union Summer STEM**. Two sensors on the hand and forearm provide measurements for an acceleration-vector comparison and LED feedback.
+A wrist-posture reminder developed with **Alex Wang** during **Cooper Union Summer STEM**. It uses two sensors and LED alerts to help users notice and adjust their wrist posture.
 
 **My contribution:** proposed the dual-sensor design, wrote the initial dual-MPU6050 code, developed vector calculations and data-processing experiments, and contributed serial-output and feedback modules.
 

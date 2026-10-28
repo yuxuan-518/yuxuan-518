@@ -19,7 +19,7 @@ const shaoxuan = {
 
 ### [双 MPU6050 姿态反馈原型](https://github.com/yuxuan-518/carpal-tunnel-detection)
 
-在 **Cooper Union Summer STEM** 期间与 **Alex Wang** 合作开发的穿戴式嵌入式项目。使用安装在手部与前臂的两颗传感器，比较加速度向量并提供 LED 提示。
+在 **Cooper Union Summer STEM** 期间与 **Alex Wang** 合作制作的手腕姿态提醒装置，通过两颗传感器和 LED 提示，帮助使用者注意并调整手腕姿势。
 
 **我的贡献：**提出双传感器设计，编写初期双 MPU6050 代码，开发向量计算与数据处理探索方案，并参与串口输出和反馈模块的实现。
 
