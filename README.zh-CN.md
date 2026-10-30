@@ -29,6 +29,18 @@ const shaoxuan = {
 
 [实物与演示](https://github.com/yuxuan-518/carpal-tunnel-detection#prototype-and-demo) · [设计思路](https://github.com/yuxuan-518/carpal-tunnel-detection#why-two-mpu6050-sensors) · [团队分工](https://github.com/yuxuan-518/carpal-tunnel-detection#team-contributions)
 
+### [ATmega2560——嵌入式基础学习](https://github.com/yuxuan-518/atmega2560-embedded-foundations)
+
+在 Cooper Union 的六周暑期 STEM 项目结束后，我意识到自己需要更多时间梳理嵌入式开发的基础。在浏览 Cornell 的 ECE 课程体系时，ECE 4760 中的鸟鸣合成、数字高尔顿板和反馈控制项目吸引了我。**为了在十二年级继续深入这些内容，我开始探索：怎样通过一系列渐进练习，把零散的知识连接成自己能够理解和运用的体系？**
+
+**学习过程：**我以 ECE 4760 所需的能力为参照，借助 GPT 将目标拆成适合 ATmega2560 的基础练习。从 LED、按钮和寄存器操作开始，逐步加入定时器、中断、串口、传感器和运动控制，最后组织成综合系统。**学习重点也逐渐从实现单个功能，转向理解多个模块怎样协同运行，以及它们为什么会互相影响。**
+
+*技术说明：仓库使用寄存器级 AVR C 和 PlatformIO，保留了从 GPIO 到通信、执行器控制与系统集成的 38 个工程目录。*
+
+**我的贡献：**我独立搜索资料、阅读数据手册并尝试编写第一版代码，在部分练习中重新手写模块以复习原理。GPT 协助解释概念、审查代码和讨论排错；对于不理解的修改，我会继续追问原因，并回到资料与代码中核对。仓库包含这些审查和讨论之后的修改。
+
+[学习动机与路线](https://github.com/yuxuan-518/atmega2560-embedded-foundations/blob/main/README.zh-CN.md#为什么开始) · [代表项目与排错经历](https://github.com/yuxuan-518/atmega2560-embedded-foundations/blob/main/README.zh-CN.md#三个推荐阅读的项目) · [源代码](https://github.com/yuxuan-518/atmega2560-embedded-foundations/tree/main/code)
+
 ### [Kesty — 学习管理应用](https://github.com/yuxuan-518/kesty-support)
 
 申请季、考试准备和研究任务常常同时占用学生的时间。像完成 Common App 申请或写一篇论文这样的大目标，并不是一个待办事项，而是由许多不同的部分组成。
@@ -44,3 +56,4 @@ const shaoxuan = {
 ---
 
 仓库中记录了原型及开发过程中的探索。各项目 README 介绍了当前功能、局限和合作成员。
+
