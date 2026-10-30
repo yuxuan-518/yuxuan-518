@@ -29,6 +29,18 @@ During **Cooper Union Summer STEM**, Alex Wang and I noticed wrist discomfort af
 
 [Photo & demo](https://github.com/yuxuan-518/carpal-tunnel-detection#prototype-and-demo) · [Design rationale](https://github.com/yuxuan-518/carpal-tunnel-detection#why-two-mpu6050-sensors) · [Team contributions](https://github.com/yuxuan-518/carpal-tunnel-detection#team-contributions)
 
+### [ATmega2560 — Embedded Foundations](https://github.com/yuxuan-518/atmega2560-embedded-foundations)
+
+After Cooper Union's six-week Summer STEM program, I realized I needed more time to organize my understanding of embedded development. While exploring Cornell's ECE curriculum, I discovered ECE 4760 and was drawn to its birdsong synthesis, digital Galton board, and feedback-control projects. **To prepare for studying this material more deeply during twelfth grade, I began asking: How could a series of progressive exercises connect scattered knowledge into a foundation I could understand and use?**
+
+**Learning process:** Using the skills needed for ECE 4760 as a reference, I worked with GPT to break the goals into foundational ATmega2560 exercises. Starting with LEDs, buttons, and register operations, I gradually added timers, interrupts, serial communication, sensors, and motion control before bringing them together into an integrated system. **My focus gradually expanded from implementing individual functions to understanding how modules work together and why they can interfere with one another.**
+
+*Technical note: The repository uses register-level AVR C and PlatformIO, preserving 38 project directories spanning GPIO, communication, actuator control, and system integration.*
+
+**My contribution:** I independently searched for resources, read datasheets, and attempted the first version of the code. In some exercises, I rewrote modules by hand to revisit the principles. GPT helped explain concepts, review code, and discuss debugging. When I did not understand a proposed change, I asked further questions and returned to the documentation and code to check the explanation. The repository includes revisions made after these reviews and discussions.
+
+[Motivation and learning progression](https://github.com/yuxuan-518/atmega2560-embedded-foundations#why-i-started) · [Selected projects and debugging](https://github.com/yuxuan-518/atmega2560-embedded-foundations#three-projects-to-explore) · [Source code](https://github.com/yuxuan-518/atmega2560-embedded-foundations/tree/main/code)
+
 ### [Kesty — Study Management App](https://github.com/yuxuan-518/kesty-support)
 
 During application season, exam preparation, and research, students often have several large commitments competing for their time. **A goal like completing the Common App or writing a research paper is made up of many smaller pieces, not one checkbox.**
@@ -44,3 +56,4 @@ During application season, exam preparation, and research, students often have s
 ---
 
 My repositories document both working prototypes and the experiments that led to them. Each project's README explains its current features, limitations, and collaborators.
+
