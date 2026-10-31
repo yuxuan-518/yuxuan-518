@@ -51,7 +51,7 @@ During application season, exam preparation, and research, students often have s
 
 **My contribution:** I defined the app’s architecture, local data organization, and the structure connecting long-term goals with daily tasks. GPT assisted with writing the Swift and SwiftUI code based on the design and requirements I defined.
 
-[Source code and demo](https://github.com/yuxuan-518/kesty-support#readme)
+**[Download on the App Store](https://apps.apple.com/us/app/kesty/id6760517321)** · [Source code and demo](https://github.com/yuxuan-518/kesty-support#readme)
 
 ### [Data Visualization and Storytelling — Cooper Union](https://github.com/yuxuan-518/cooper-union-data-visualization)
 
