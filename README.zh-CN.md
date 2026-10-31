@@ -53,6 +53,16 @@ const shaoxuan = {
 
 [源代码与演示](https://github.com/yuxuan-518/kesty-support#readme)
 
+### [数据可视化与叙事 — Cooper Union](https://github.com/yuxuan-518/cooper-union-data-visualization/blob/main/README.zh-CN.md)
+
+在 **2024 年 Cooper Union STEM Saturdays 的 Inventor’s Lab: Data Visualization 课程**中，我练习把表格整理成听众能够理解的图表。期末项目从年龄、学历和性别三个角度，比较各群体中有工作的人所占的比例。**通过图表，读者可以直接看到群体差异和时间变化，不必逐行阅读原始数据。**
+
+**课程实践与学习收获：**材料还包括 Titanic 乘客统计、硬币质量分布、两种图表形式的比较，以及节目选择建议。我练习了整理数据、计算描述统计量、根据问题选择图表，并通过双语讲稿和合作演示向听众解释比较结果。
+
+*技术说明：期末成果包括 7 个工作表的 Excel 分析、22 页演示文稿和中英双语排练稿。各项目页面直接展示图表预览与简短说明。原演示文稿署名为 Shaoxuan Xiong（制作）和 Richard Feng（编辑）。*
+
+[期末项目图表与讲解](https://github.com/yuxuan-518/cooper-union-data-visualization/blob/main/final-project/employment-analysis/README.zh-CN.md) · [课堂练习](https://github.com/yuxuan-518/cooper-union-data-visualization/blob/main/README.zh-CN.md#课堂练习) · [课程学习收获](https://github.com/yuxuan-518/cooper-union-data-visualization/blob/main/README.zh-CN.md#我在这门课中练习了什么)
+
 ---
 
 仓库中记录了原型及开发过程中的探索。各项目 README 介绍了当前功能、局限和合作成员。
