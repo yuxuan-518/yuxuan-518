@@ -17,6 +17,18 @@ const shaoxuan = {
 
 ## Projects
 
+### [Piezoelectric Floor Tile — Footstep Energy Harvesting](https://github.com/yuxuan-518/piezoelectric-floor-tile)
+
+With Shuoqi Yang and Wenhao Jia, I explored **how a floor tile could transfer footstep motion to a piezoelectric disc and store the resulting electrical energy.** We began by replicating a published design. When its glue-stick contacts deformed and damaged discs in our build, the problem became more specific: **How could we protect the disc while delivering a more consistent mechanical input?**
+
+**Design process:** We replaced the glue contacts with sponge pads, then developed spring–impactor modules to explore separation and repeated contact. Variable responses in that second design led us to a center-punch-style mechanism that stores spring energy before a mechanical trigger releases it. **Each revision grew from testing the previous structure and examining where its behavior differed from our expectations.**
+
+*Technical note: The repository includes three design generations, CAD meshes, a Python model for V2 separation and re-impact, and capacitor-charging measurements. In a single-disc comparison, V3 stored 72.48 μJ per step on average versus 11.63 μJ for the V1-derived baseline (100 steps each). The 6.23 ratio describes stored energy under the tested stepping conditions; mechanical input work was not measured.*
+
+**My contribution:** I led the research idea, methods, and overall analysis, including early circuit work and V1/V2 measurements. I led V2 mechanism development, Python simulation, and spring-parameter selection, and revised and checked the physical model. After my teammates independently collected the V3 data, I reviewed and analyzed it and prepared the figures. I established the manuscript structure and revised the first draft into the final manuscript as first author.
+
+[Design evolution](https://github.com/yuxuan-518/piezoelectric-floor-tile#design-evolution) · [Experiments and data](https://github.com/yuxuan-518/piezoelectric-floor-tile#ab-experiments) · [Team contributions](https://github.com/yuxuan-518/piezoelectric-floor-tile/blob/main/CREDITS.md)
+
 ### [Dual-MPU6050 Posture Feedback Prototype](https://github.com/yuxuan-518/carpal-tunnel-detection)
 
 During **Cooper Union Summer STEM**, Alex Wang and I noticed wrist discomfort after long hours at a computer and began researching carpal tunnel syndrome. That exploration led us to a more focused design question: **Could a simple wearable help someone notice their wrist posture during computer use?** [NHS overview](https://www.nhs.uk/conditions/carpal-tunnel-syndrome/)
