@@ -58,6 +58,29 @@
 </tr>
 </table>
 
+### [幼猫环境监测——温度、湿度与通风](https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/README.zh-CN.md)
+
+<table width="100%">
+<tr>
+<td width="34%" valign="top" align="center">
+
+<p align="center"><a href="https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/README.zh-CN.md"><img src="https://github.com/yuxuan-518/kitten-temperature-monitor/raw/main/assets/prototype-overview.jpg" alt="幼猫休息区原型，包括监测电路、液晶屏和通风风扇" width="100%"></a><br><sub>实物原型 · 环境监测与通风</sub></p>
+
+</td>
+<td width="66%" valign="top">
+
+<p>我制作了一个基于 ESP32 的原型，用于<strong>监测幼猫休息区周围的空气温度和湿度</strong>，通过屏幕与声音提示，让环境变化更容易被注意到。</p>
+
+<p><strong>系统组成：</strong>DHT11 采集温度和湿度，LCD1602 显示读数；温度超出设定区间时，LED 和蜂鸣器发出提示。我还加装了电风扇用于通风；保留的代码负责传感器读取、显示与报警。</p>
+
+<p><strong>我的工作：</strong>我组装了原型，将传感器放置在休息箱内，并加装通风风扇。ChatGPT 帮助生成 Arduino 代码，并解释接线和程序行为。</p>
+
+<p><a href="https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/README.zh-CN.md">项目与实物照片</a> · <a href="https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/firmware/KittenMonitor/KittenMonitor.ino">源代码</a></p>
+
+</td>
+</tr>
+</table>
+
 ### [ATmega2560——嵌入式基础学习](https://github.com/yuxuan-518/atmega2560-embedded-foundations)
 
 在 Cooper Union 的六周暑期 STEM 项目结束后，我意识到自己需要更多时间梳理嵌入式开发的基础。在浏览 Cornell 的 ECE 课程体系时，ECE 4760 中的鸟鸣合成、数字高尔顿板和反馈控制项目吸引了我。**为了在十二年级继续深入这些内容，我开始探索：怎样通过一系列渐进练习，把零散的知识连接成自己能够理解和运用的体系？**
