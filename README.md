@@ -133,7 +133,7 @@ const shaoxuan = {
 };
 ```
 
-If you have read this far, thank you—really—for spending time with the little beginner projects that this high-school student has been tinkering with. Thank you for your interest and patience. Below, I would like to show you another side of me.
+### If you have read this far, thank you—really—for spending time with the little beginner projects that this high-school student has been tinkering with. Thank you for your interest and patience. Below, I would like to show you another side of me.
 
 <a name="my-family"></a>
 
