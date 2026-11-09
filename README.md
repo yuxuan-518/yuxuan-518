@@ -8,7 +8,7 @@
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="70%" valign="top">
 
 <p>With Shuoqi Yang and Wenhao Jia, I explored <strong>how a floor tile could transfer footstep motion to a piezoelectric disc and store the resulting electrical energy.</strong> We began by replicating a published design. When its glue-stick contacts deformed and damaged discs in our build, the problem became more specific: <strong>How could we protect the disc while delivering a more consistent mechanical input?</strong></p>
 
@@ -21,11 +21,11 @@
 <p><a href="https://github.com/yuxuan-518/piezoelectric-floor-tile#design-evolution">Design evolution</a> · <a href="https://github.com/yuxuan-518/piezoelectric-floor-tile#ab-experiments">Experiments and data</a> · <a href="https://github.com/yuxuan-518/piezoelectric-floor-tile/blob/main/CREDITS.md">Team contributions</a></p>
 
 </td>
-<td width="35%" valign="top" align="center">
+<td width="30%" valign="top" align="center">
 
-<p align="center"><a href="https://github.com/yuxuan-518/piezoelectric-floor-tile#readme"><img src="https://raw.githubusercontent.com/yuxuan-518/piezoelectric-floor-tile/main/assets/images/v3/assembled-1.jpg" alt="V3 · Assembled prototype" width="270"></a><br><sub>V3 · Assembled prototype</sub></p>
+<p align="center"><a href="https://github.com/yuxuan-518/piezoelectric-floor-tile#readme"><img src="https://raw.githubusercontent.com/yuxuan-518/piezoelectric-floor-tile/main/assets/images/v3/assembled-1.jpg" alt="V3 · Assembled prototype" width="100%"></a><br><sub>V3 · Assembled prototype</sub></p>
 
-<p align="center"><a href="https://github.com/yuxuan-518/piezoelectric-floor-tile#readme"><img src="https://raw.githubusercontent.com/yuxuan-518/piezoelectric-floor-tile/main/assets/images/v3/IMG_7800.jpg" alt="V3 · Mechanism components" width="270"></a><br><sub>V3 · Mechanism components</sub></p>
+<p align="center"><a href="https://github.com/yuxuan-518/piezoelectric-floor-tile#readme"><img src="https://raw.githubusercontent.com/yuxuan-518/piezoelectric-floor-tile/main/assets/images/v3/IMG_7800.jpg" alt="V3 · Mechanism components" width="100%"></a><br><sub>V3 · Mechanism components</sub></p>
 
 </td>
 </tr>
