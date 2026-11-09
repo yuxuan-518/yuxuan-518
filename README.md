@@ -58,24 +58,28 @@
 </tr>
 </table>
 
-### [Kitten Environment Monitor — Temperature, Humidity and Ventilation](https://github.com/yuxuan-518/kitten-temperature-monitor)
+### [Caring for a Kitten Found in My Backyard](https://github.com/yuxuan-518/kitten-temperature-monitor)
 
 <table width="100%">
 <tr>
 <td width="34%" valign="top" align="center">
 
-<p align="center"><a href="https://github.com/yuxuan-518/kitten-temperature-monitor#readme"><img src="https://github.com/yuxuan-518/kitten-temperature-monitor/raw/main/assets/prototype-overview.jpg" alt="Kitten resting-area prototype with monitoring electronics, LCD and a ventilation fan" width="100%"></a><br><sub>Prototype · Monitoring and ventilation</sub></p>
+<p align="center"><a href="https://github.com/yuxuan-518/kitten-temperature-monitor#readme"><img src="https://github.com/yuxuan-518/kitten-temperature-monitor/raw/main/assets/prototype-overview.jpg" alt="Kitten resting-area prototype with monitoring electronics, LCD and a ventilation fan" width="100%"></a><br><sub>A small project that began with caring for a rescued kitten</sub></p>
 
 </td>
 <td width="66%" valign="top">
 
-<p>I built an ESP32 prototype to <strong>monitor the air temperature and humidity around young kittens' resting area</strong>, with a screen and audible feedback to make changes easier to notice.</p>
+<p>This project began when I found an abandoned kitten in my backyard. <strong>My first reaction was panic.</strong> I wanted to help, but I did not know where to begin. Having such a small life suddenly depend on me made care feel immediate and personal: I needed to make a place for it to rest and learn how to pay attention to its needs.</p>
 
-<p><strong>System:</strong> A DHT11 sensor supplies temperature and humidity readings to an LCD1602. An LED and buzzer provide alerts when temperature moves outside the configured range. I also added an electric fan for ventilation; the preserved sketch handles sensing, display and alerts.</p>
+<p>Building something gave me a way to turn some of that uncertainty into action. I assembled a simple device to monitor the air temperature and humidity around the kitten's resting area, with a display and alerts, and added a fan for ventilation. It gave me a clearer way to notice changes in the surroundings while I learned to take on the responsibility of caring for the kitten.</p>
 
-<p><strong>My work:</strong> I assembled the prototype, positioned the sensor inside the resting enclosure and added the ventilation fan. ChatGPT helped generate the Arduino sketch and explain the wiring and program behavior.</p>
+<p><strong>This experience shaped how I think about serving my community.</strong> Care can begin close to home, with noticing a vulnerable life that might otherwise be overlooked and choosing to take responsibility. The questions that guided this project came from that encounter: What does this little animal need, and what can I do with the skills and resources I have?</p>
 
-<p><a href="https://github.com/yuxuan-518/kitten-temperature-monitor#readme">Project and photos</a> · <a href="https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/firmware/KittenMonitor/KittenMonitor.ino">Source code</a></p>
+<p>I am sharing the build and photographs as a record of that learning, and in the hope that they may give someone facing a similar situation a starting point for their own practical ideas.</p>
+
+<p><sub>I assembled the prototype; ChatGPT helped generate the Arduino sketch and explain the wiring.</sub></p>
+
+<p><a href="https://github.com/yuxuan-518/kitten-temperature-monitor#readme">The project and its story</a> · <a href="https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/firmware/KittenMonitor/KittenMonitor.ino">Source code</a></p>
 
 </td>
 </tr>
