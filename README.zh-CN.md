@@ -146,9 +146,9 @@ const shaoxuan = {
 
 在主文书里，或许您已经了解了我的家庭情况。不过在这里，我想给您看看我现在的家。
 
-[花椒](#花椒-huajiao) · [荔枝](#荔枝-lizhi) · [米团](#米团-mituan) · [完整相册](https://github.com/yuxuan-518/cat-family-album)
+[花椒](#花椒-sichuan-pepper) · [荔枝](#荔枝-lychee) · [米团](#米团-rice-ball) · [完整相册](https://github.com/yuxuan-518/cat-family-album)
 
-#### 花椒 Huajiao
+#### 花椒 Sichuan Pepper
 
 这个小猫叫花椒，是我收养的第一只小猫。您可以看到，他是一个大胖子。但您可能想不到，他的脾气和体重一样大，特别是别人摸他屁股的时候！不过，他也有很多很萌的时候，比如这些。
 
@@ -202,7 +202,7 @@ https://github.com/user-attachments/assets/1713b100-bc6f-4676-9772-10889fd9ed70
 
 [↑ 回到栏目标题](#my-family)
 
-#### 荔枝 Lizhi
+#### 荔枝 Lychee
 
 然后这一只，他叫荔枝，是我从小养到大的小猫咪！您看看，他刚到家的时候只有这么大！！
 
@@ -262,7 +262,7 @@ https://github.com/user-attachments/assets/17ef30fd-edfe-4795-85ad-dd1f619788cb
 
 [↑ 回到栏目标题](#my-family)
 
-#### 米团 Mituan
+#### 米团 Rice Ball
 
 <table width="100%">
 <tr>

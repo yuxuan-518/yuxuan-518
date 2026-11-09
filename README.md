@@ -144,17 +144,17 @@ const shaoxuan = {
 
 You may already know about my family circumstances from my personal statement. Here, though, I would like to show you what my home looks like now.
 
-[Huajiao](#huajiao-花椒) · [Lizhi](#lizhi-荔枝) · [Mituan](#mituan-米团) · [Full photo album](https://github.com/yuxuan-518/cat-family-album)
+[Sichuan Pepper](#sichuan-pepper-花椒) · [Lychee](#lychee-荔枝) · [Rice Ball](#rice-ball-米团) · [Full photo album](https://github.com/yuxuan-518/cat-family-album)
 
-#### Huajiao 花椒
+#### Sichuan Pepper 花椒
 
-This is Huajiao, the first cat I adopted. As you can see, he is a big, fluffy boy. What you might not guess is that his temper is just as big—especially when someone touches his backside! But he has plenty of adorable moments, too. Here are a few.
+This is Sichuan Pepper, the first cat I adopted. As you can see, he is a big, fluffy boy. What you might not guess is that his temper is just as big—especially when someone touches his backside! But he has plenty of adorable moments, too. Here are a few.
 
 <table width="560">
 <tr>
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045526_1547_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045526_1547_4.jpg" alt="Huajiao, in all his fluffy glory" width="160"></a><br><sub>Huajiao, in all his fluffy glory</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045526_1547_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045526_1547_4.jpg" alt="Sichuan Pepper, in all his fluffy glory" width="160"></a><br><sub>Sichuan Pepper, in all his fluffy glory</sub>
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -170,10 +170,10 @@ This is Huajiao, the first cat I adopted. As you can see, he is a big, fluffy bo
 </tr>
 </table>
 
-Huajiao is very, very proud. I live in a basement, with small windows near my bed and desk that look out at ground level. Whenever I come back to my room or leave it, he jumps onto the corresponding windowsill.
+Sichuan Pepper is very, very proud. I live in a basement, with small windows near my bed and desk that look out at ground level. Whenever I come back to my room or leave it, he jumps onto the corresponding windowsill.
 
 <details>
-<summary>▶ A little windowsill time with Huajiao · 25 seconds</summary>
+<summary>▶ A little windowsill time with Sichuan Pepper · 25 seconds</summary>
 
 https://github.com/user-attachments/assets/1713b100-bc6f-4676-9772-10889fd9ed70
 
@@ -200,15 +200,15 @@ Such a proud little cat.
 
 [↑ Back to the family heading](#my-family)
 
-#### Lizhi 荔枝
+#### Lychee 荔枝
 
-And this is Lizhi, whom I have raised since he was tiny! Look how small he was when he first came home!!
+And this is Lychee, whom I have raised since he was tiny! Look how small he was when he first came home!!
 
 <table width="560">
 <tr>
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045818_1620_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045818_1620_4.jpg" alt="When Lizhi first came home" width="160"></a><br><sub>When Lizhi first came home</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045818_1620_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045818_1620_4.jpg" alt="When Lychee first came home" width="160"></a><br><sub>When Lychee first came home</sub>
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -218,7 +218,7 @@ And this is Lizhi, whom I have raised since he was tiny! Look how small he was w
 </td>
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050131_1719_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050131_1719_4.jpg" alt="Lizhi now" width="160"></a><br><sub>Lizhi now</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050131_1719_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050131_1719_4.jpg" alt="Lychee now" width="160"></a><br><sub>Lychee now</sub>
 
 </td>
 </tr>
@@ -226,9 +226,9 @@ And this is Lizhi, whom I have raised since he was tiny! Look how small he was w
 
 So cute!!!
 
-Of course, his arrival made Huajiao very unhappy. To help Huajiao adjust, I moved a mattress outside my room and slept there with him for two or three weeks. That left little Lizhi free to drink his milk and sleep peacefully in my room, without getting swatted. (Hehe.)
+Of course, his arrival made Sichuan Pepper very unhappy. To help Sichuan Pepper adjust, I moved a mattress outside my room and slept there with him for two or three weeks. That left little Lychee free to drink his milk and sleep peacefully in my room, without getting swatted. (Hehe.)
 
-Now I often call Lizhi my “little monkey.” He runs around all day, chasing Huajiao and trying to play with that enormous fluffy tail. Huajiao acts like a very aloof older brother: he mostly watches and pretends not to be interested.
+Now I often call Lychee my “little monkey.” He runs around all day, chasing Sichuan Pepper and trying to play with that enormous fluffy tail. Sichuan Pepper acts like a very aloof older brother: he mostly watches and pretends not to be interested.
 
 <table width="100%">
 <tr>
@@ -239,7 +239,7 @@ Now I often call Lizhi my “little monkey.” He runs around all day, chasing H
 </td>
 <td width="70%" valign="top">
 
-If Huajiao is proud, Lizhi is an expert at demanding affection. Whenever I am doing homework or coding at my desk, he comes up and keeps rubbing his little head against my hand until I stop. I pet him, he licks me, and I sometimes press my forehead gently against his.
+If Sichuan Pepper is proud, Lychee is an expert at demanding affection. Whenever I am doing homework or coding at my desk, he comes up and keeps rubbing his little head against my hand until I stop. I pet him, he licks me, and I sometimes press my forehead gently against his.
 
 But he has rules. When he wants to be close, he rubs and licks and will not let me do anything else. When I want to pick him up or sneak in a kiss while he is playing, he pushes his little stinky paws against my face.
 
@@ -252,7 +252,7 @@ Apparently, he is allowed to cuddle me, but I am not allowed to cuddle him. This
 And every night before bed, he climbs onto the blankets, kneads with his front paws, and suckles on the fuzzy fabric. Here is the uninterrupted version for you!
 
 <details>
-<summary>▶ Lizhi kneading before bed · 20 seconds</summary>
+<summary>▶ Lychee kneading before bed · 20 seconds</summary>
 
 https://github.com/user-attachments/assets/17ef30fd-edfe-4795-85ad-dd1f619788cb
 
@@ -260,32 +260,32 @@ https://github.com/user-attachments/assets/17ef30fd-edfe-4795-85ad-dd1f619788cb
 
 [↑ Back to the family heading](#my-family)
 
-#### Mituan 米团
+#### Rice Ball 米团
 
 <table width="100%">
 <tr>
 <td width="30%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg" alt="Mituan, the smallest member of the family" width="100"></a> &nbsp; <a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg" alt="Huajiao and Mituan: the truck and the tiny kitten" width="100"></a><br><sub>Mituan, the smallest member of the family · Huajiao and Mituan: the truck and the tiny kitten</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg" alt="Rice Ball, the smallest member of the family" width="100"></a> &nbsp; <a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg" alt="Sichuan Pepper and Rice Ball: the truck and the tiny kitten" width="100"></a><br><sub>Rice Ball, the smallest member of the family · Sichuan Pepper and Rice Ball: the truck and the tiny kitten</sub>
 
 </td>
 <td width="70%" valign="top">
 
-Last, here is Mituan.
+Last, here is Rice Ball.
 
-You may have seen the project about the two kittens in my backyard above. He is one of those kittens. The other was called Zhima; sadly, Zhima did not survive. Mituan stayed with me and has been growing up happily.
+You may have seen the project about the two kittens in my backyard above. He is one of those kittens. The other was called Sesame; sadly, Sesame did not survive. Rice Ball stayed with me and has been growing up happily.
 
-Mituan and Huajiao are both long-haired cats, and since October they have often been cuddled up together. Huajiao is enormous next to him, though—like a truck parked in front of a tiny kitten!
+Rice Ball and Sichuan Pepper are both long-haired cats, and since October they have often been cuddled up together. Sichuan Pepper is enormous next to him, though—like a truck parked in front of a tiny kitten!
 
 </td>
 </tr>
 </table>
 
-Mituan also has the most nicknames in the house: Wobbly Cat, Poop Cat, biabiami, Mitang… all of them mean him.
+Rice Ball also has the most nicknames in the house: Wobbly Cat, Poop Cat, biabiami, Rice Candy… all of them mean him.
 
 “Wobbly Cat” comes from the way he walks. He did not develop fully as a kitten, so he is unsteady and sometimes tumbles over. It does not stop him from playing or asking us for attention.
 
-“Poop Cat” has a slightly smellier origin. Sometimes he loses his balance while digging in the litter box and gets himself dirty, so I pick him up and clean him again. That nickname gradually became “baba-mi,” then “biabiami.” “Mitang” is another little variation on “Mituan.” One name could never be enough for this cat. (Hehe.)
+“Poop Cat” has a slightly smellier origin. Sometimes he loses his balance while digging in the litter box and gets himself dirty, so I pick him up and clean him again. That nickname gradually became “baba-mi,” then “biabiami.” “Rice Candy” is another little variation on “Rice Ball.” One name could never be enough for this cat. (Hehe.)
 
 <table width="100%">
 <tr>
@@ -296,7 +296,7 @@ Mituan also has the most nicknames in the house: Wobbly Cat, Poop Cat, biabiami,
 </td>
 <td width="70%" valign="top">
 
-Remember how Lizhi asks for affection? Mituan has his own approach. He is still too small to jump onto my desk or bed, so he stands beside it and shouts for me. He may be tiny, but his voice certainly is not. He has been loud since he was little!
+Remember how Lychee asks for affection? Rice Ball has his own approach. He is still too small to jump onto my desk or bed, so he stands beside it and shouts for me. He may be tiny, but his voice certainly is not. He has been loud since he was little!
 
 Then I pick him up, hold him in my arms or set him on the blankets, and we start playing.
 
@@ -305,7 +305,7 @@ Then I pick him up, hold him in my arms or set him on the blankets, and we start
 </table>
 
 <details>
-<summary>▶ Tiny Mituan coming over to me · 4 seconds</summary>
+<summary>▶ Tiny Rice Ball coming over to me · 4 seconds</summary>
 
 https://github.com/user-attachments/assets/f840e4d7-8e97-44b7-9dc4-bd4c76834876
 
