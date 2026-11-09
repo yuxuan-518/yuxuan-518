@@ -122,8 +122,6 @@ During **Cooper Union STEM Saturdays: Inventor’s Lab — Data Visualization (2
 
 ---
 
-My repositories document both working prototypes and the experiments that led to them. Each project's README explains its current features, limitations, and collaborators.
-
 ## About me
 
 ```javascript
