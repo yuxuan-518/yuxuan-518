@@ -58,24 +58,28 @@
 </tr>
 </table>
 
-### [幼猫环境监测——温度、湿度与通风](https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/README.zh-CN.md)
+### [照顾后院捡到的幼猫——环境监测与通风](https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/README.zh-CN.md)
 
 <table width="100%">
 <tr>
 <td width="34%" valign="top" align="center">
 
-<p align="center"><a href="https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/README.zh-CN.md"><img src="https://github.com/yuxuan-518/kitten-temperature-monitor/raw/main/assets/prototype-overview.jpg" alt="幼猫休息区原型，包括监测电路、液晶屏和通风风扇" width="100%"></a><br><sub>实物原型 · 环境监测与通风</sub></p>
+<p align="center"><a href="https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/README.zh-CN.md"><img src="https://github.com/yuxuan-518/kitten-temperature-monitor/raw/main/assets/prototype-overview.jpg" alt="幼猫休息区原型，包括监测电路、液晶屏和通风风扇" width="100%"></a><br><sub>从照顾一只捡回来的幼猫开始</sub></p>
 
 </td>
 <td width="66%" valign="top">
 
-<p>我制作了一个基于 ESP32 的原型，用于<strong>监测幼猫休息区周围的空气温度和湿度</strong>，通过屏幕与声音提示，让环境变化更容易被注意到。</p>
+<p>这个项目始于我在后院捡到的一只被遗弃的幼猫。<strong>刚发现它时，我很慌张。</strong>我想把它照顾好，却不知道该从哪里开始。眼前这个小生命，让照护变成了一件具体而迫切的事：先为它安顿休息的地方，再一点点学习怎样留意它的需要。</p>
 
-<p><strong>系统组成：</strong>DHT11 采集温度和湿度，LCD1602 显示读数；温度超出设定区间时，LED 和蜂鸣器发出提示。我还加装了电风扇用于通风；保留的代码负责传感器读取、显示与报警。</p>
+<p>动手搭建装置，让我把一部分不安转化成了行动。我做了一个简单的温湿度监测器，观察幼猫休息区周围的空气环境，通过屏幕和报警提示提醒自己注意变化，也加装了电风扇用于通风。在学习照顾它的过程中，这个小装置给了我一种更具体的观察方式。</p>
 
-<p><strong>我的工作：</strong>我组装了原型，将传感器放置在休息箱内，并加装通风风扇。ChatGPT 帮助生成 Arduino 代码，并解释接线和程序行为。</p>
+<p><strong>这段经历也让我重新理解了社区服务的意义。</strong>关怀可以从自己生活的地方开始，从注意到一个容易被忽略的小生命、愿意为它承担责任开始。推动我做这个项目的问题很朴素：它现在需要什么？我能用自己已有的知识和手边的材料，为它做些什么？</p>
 
-<p><a href="https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/README.zh-CN.md">项目与实物照片</a> · <a href="https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/firmware/KittenMonitor/KittenMonitor.ino">源代码</a></p>
+<p>我把制作过程和照片整理出来，记录这段从慌乱到尝试承担责任的经历，也希望能给遇到类似情况的人提供一点动手解决问题的思路。</p>
+
+<p><sub>原型由我组装；ChatGPT 帮助生成 Arduino 程序并解释接线。</sub></p>
+
+<p><a href="https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/README.zh-CN.md">项目故事与实物照片</a> · <a href="https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/firmware/KittenMonitor/KittenMonitor.ino">源代码</a></p>
 
 </td>
 </tr>
