@@ -58,28 +58,28 @@
 </tr>
 </table>
 
-### [Caring for a Kitten Found in My Backyard](https://github.com/yuxuan-518/kitten-temperature-monitor)
+### [Two Kittens in the Backyard](https://github.com/yuxuan-518/kitten-temperature-monitor)
 
 <table width="100%">
 <tr>
 <td width="34%" valign="top" align="center">
 
-<p align="center"><a href="https://github.com/yuxuan-518/kitten-temperature-monitor#readme"><img src="https://github.com/yuxuan-518/kitten-temperature-monitor/raw/main/assets/prototype-overview.jpg" alt="Kitten resting-area prototype with monitoring electronics, LCD and a ventilation fan" width="100%"></a><br><sub>A small project that began with caring for a rescued kitten</sub></p>
+<p align="center"><a href="https://github.com/yuxuan-518/kitten-temperature-monitor#readme"><img src="https://github.com/yuxuan-518/kitten-temperature-monitor/raw/main/assets/prototype-overview.jpg" alt="Kitten resting-area prototype with monitoring electronics, LCD and a ventilation fan" width="100%"></a><br><sub>The resting box we put together for the kittens</sub></p>
 
 </td>
 <td width="66%" valign="top">
 
-<p>This project began when I found an abandoned kitten in my backyard. <strong>My first reaction was panic.</strong> I wanted to help, but I did not know where to begin. Having such a small life suddenly depend on me made care feel immediate and personal: I needed to make a place for it to rest and learn how to pay attention to its needs.</p>
+<p>One evening, as I was about to walk a classmate home, we heard loud meowing from the backyard. We followed the sound and found two kittens lying on the ground. They seemed to have been abandoned. One was very thin, the weather was cold, and insects were crawling on them. I panicked. We hurried back inside with them, warmed water to wipe their bodies and remove the insects, and prepared kitten formula.</p>
 
-<p>Building something gave me a way to turn some of that uncertainty into action. I assembled a simple device to monitor the air temperature and humidity around the kitten's resting area, with a display and alerts, and added a fan for ventilation. It gave me a clearer way to notice changes in the surroundings while I learned to take on the responsibility of caring for the kitten.</p>
+<p>There were three of us, and we divided up the work. While one friend cleaned and fed a kitten and another cut an opening in a box and lined it with soft bedding, I worked on the code and wiring. <strong>Using code from my existing Arduino IDE library, I independently completed the programming and wiring in about an hour.</strong> The device displayed the air temperature and humidity around their resting area and gave temperature alerts. I also added a fan for ventilation.</p>
 
-<p><strong>This experience shaped how I think about serving my community.</strong> Care can begin close to home, with noticing a vulnerable life that might otherwise be overlooked and choosing to take responsibility. The questions that guided this project came from that encounter: What does this little animal need, and what can I do with the skills and resources I have?</p>
+<p>Afterward, we took turns looking after them. I fed them at midnight and again at 3 a.m., then went to sleep. My classmate got up at 6 and came over around 7 to take the next shift. That became the work we shared: feeding, watching, and making sure someone was there to take over.</p>
 
-<p>I am sharing the build and photographs as a record of that learning, and in the hope that they may give someone facing a similar situation a starting point for their own practical ideas.</p>
+<p>One kitten died three or four days later. The other is still with me. It has cerebellar hypoplasia and walks unsteadily, but it is alive and doing well.</p>
 
-<p><sub>I independently programmed, wired and assembled the prototype in about an hour using code from my existing Arduino IDE library.</sub></p>
+<p><strong>What stays with me is how directly the things I had learned became useful.</strong> I was writing code while my friends were feeding the kittens and preparing their box. The late nights and handovers brought the three of us closer, too. This project belongs alongside my other work because it records a time when we had a problem in front of us and used what we had to help.</p>
 
-<p><a href="https://github.com/yuxuan-518/kitten-temperature-monitor#readme">The project and its story</a> · <a href="https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/firmware/KittenMonitor/KittenMonitor.ino">Source code</a></p>
+<p><a href="https://github.com/yuxuan-518/kitten-temperature-monitor#readme">Project and photos</a> · <a href="https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/firmware/KittenMonitor/KittenMonitor.ino">Source code</a></p>
 
 </td>
 </tr>
