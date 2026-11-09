@@ -152,21 +152,21 @@ const shaoxuan = {
 
 这个小猫叫花椒，是我收养的第一只小猫。您可以看到，他是一个大胖子。但您可能想不到，他的脾气和体重一样大，特别是别人摸他屁股的时候！不过，他也有很多很萌的时候，比如这些。
 
-<table width="100%">
+<table width="560">
 <tr>
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045526_1547_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045526_1547_4.jpg" alt="花椒：大胖子本猫" width="100%"></a><br><sub>花椒：大胖子本猫</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045526_1547_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045526_1547_4.jpg" alt="花椒：大胖子本猫" width="160"></a><br><sub>花椒：大胖子本猫</sub>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045806_1615_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045806_1615_4.jpg" alt="在窗台上看着我的花椒" width="100%"></a><br><sub>在窗台上看着我的花椒</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045806_1615_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045806_1615_4.jpg" alt="在窗台上看着我的花椒" width="160"></a><br><sub>在窗台上看着我的花椒</sub>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045329_1504_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045329_1504_4.jpg" alt="也有乖乖让人抱的时候" width="100%"></a><br><sub>也有乖乖让人抱的时候</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045329_1504_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045329_1504_4.jpg" alt="也有乖乖让人抱的时候" width="160"></a><br><sub>也有乖乖让人抱的时候</sub>
 
 </td>
 </tr>
@@ -181,13 +181,24 @@ https://github.com/user-attachments/assets/1713b100-bc6f-4676-9772-10889fd9ed70
 
 </details>
 
+<table width="100%">
+<tr>
+<td width="30%" valign="top" align="center">
+
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045646_1583_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045646_1583_4.jpg" alt="枕头已经是他的专属位置了" width="220"></a><br><sub>枕头已经是他的专属位置了</sub>
+
+</td>
+<td width="70%" valign="top">
+
 他要抱抱的方式也很奇特。他会先跑到床上，停在离我大约一个半手臂远的地方——刚好是我躺着伸手够不到、必须起身才能抱到他的距离。然后，他会发出一声“mia”，半蹲在那里看看我，又看看窗台，就像在说：“你快过来抱我，不然我就要上窗台了。”
 
 每到这个时候，我就会起身把他抱进怀里。但抱上五六分钟，他又要走了。我把他放开，他就自己跑去我床上的另一个枕头睡觉。那个枕头已经是他的专属枕头了，每晚都要在那里陪我进入梦乡。
 
-<p align="center"><a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045646_1583_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045646_1583_4.jpg" alt="枕头已经是他的专属位置了" width="500"></a><br><sub>枕头已经是他的专属位置了</sub></p>
-
 真是一个傲娇的小猫。
+
+</td>
+</tr>
+</table>
 
 [↑ 回到栏目标题](#my-family)
 
@@ -195,21 +206,21 @@ https://github.com/user-attachments/assets/1713b100-bc6f-4676-9772-10889fd9ed70
 
 然后这一只，他叫荔枝，是我从小养到大的小猫咪！您看看，他刚到家的时候只有这么大！！
 
-<table width="100%">
+<table width="560">
 <tr>
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045818_1620_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045818_1620_4.jpg" alt="荔枝刚到家的时候" width="100%"></a><br><sub>荔枝刚到家的时候</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045818_1620_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045818_1620_4.jpg" alt="荔枝刚到家的时候" width="160"></a><br><sub>荔枝刚到家的时候</sub>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045855_1637_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045855_1637_4.jpg" alt="那时候真的只有这么小" width="100%"></a><br><sub>那时候真的只有这么小</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045855_1637_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045855_1637_4.jpg" alt="那时候真的只有这么小" width="160"></a><br><sub>那时候真的只有这么小</sub>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050131_1719_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050131_1719_4.jpg" alt="现在的荔枝" width="100%"></a><br><sub>现在的荔枝</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050131_1719_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050131_1719_4.jpg" alt="现在的荔枝" width="160"></a><br><sub>现在的荔枝</sub>
 
 </td>
 </tr>
@@ -221,38 +232,52 @@ https://github.com/user-attachments/assets/1713b100-bc6f-4676-9772-10889fd9ed70
 
 现在我经常叫荔枝“瘦猴子”。他每天跑来跑去，追着花椒玩，还特别喜欢去招惹花椒那条大毛尾巴。花椒就像一个装高冷的大哥哥，不太愿意理他，只是在旁边看着。
 
-如果说花椒是傲娇，那荔枝简直是“强制爱”的一把好手。每次我在书桌前写功课或者敲代码，他总要跑上来，用小脑袋不停地蹭我的手，打断我。我伸手摸摸他，他就开始舔我，我也会用额头和他贴贴。
+<table width="100%">
+<tr>
+<td width="30%" valign="top" align="center">
 
-<p align="center"><a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045959_1676_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045959_1676_4.jpg" alt="写代码时，书桌上总少不了他" width="420"></a><br><sub>写代码时，书桌上总少不了他</sub></p>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045959_1676_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045959_1676_4.jpg" alt="写代码时，书桌上总少不了他" width="220"></a><br><sub>写代码时，书桌上总少不了他</sub>
+
+</td>
+<td width="70%" valign="top">
+
+如果说花椒是傲娇，那荔枝简直是“强制爱”的一把好手。每次我在书桌前写功课或者敲代码，他总要跑上来，用小脑袋不停地蹭我的手，打断我。我伸手摸摸他，他就开始舔我，我也会用额头和他贴贴。
 
 但他的规矩可多了。他想粘我的时候，就会一直蹭、一直舔，不让我干别的事情；可如果是我想抱抱他，或者趁他玩的时候凑过去亲亲他，他又会拿臭臭的小爪子顶住我的脸。
 
 只允许他贴着我，不允许我去贴着他，这个小猫咪！
 
+</td>
+</tr>
+</table>
+
 对了，每次睡觉前，荔枝都会跑到床上，一边踩奶，一边嘬嘬嘬我毛茸茸的被子。给您看一个纯享版吧！
 
+<details>
+<summary>▶ 荔枝睡前踩奶 · 20 秒</summary>
+
 https://github.com/user-attachments/assets/17ef30fd-edfe-4795-85ad-dd1f619788cb
+
+</details>
 
 [↑ 回到栏目标题](#my-family)
 
 #### 米团 Mituan
+
+<table width="100%">
+<tr>
+<td width="30%" valign="top" align="center">
+
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg" alt="米团，家里最小的一只" width="125"></a> &nbsp; <a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg" alt="花椒和米团：“大卡车”和小不点" width="125"></a><br><sub>米团，家里最小的一只 · 花椒和米团：“大卡车”和小不点</sub>
+
+</td>
+<td width="70%" valign="top">
 
 最后是这一只啦。
 
 您应该已经看到上面那个“后院里的两只小猫”的项目了吧？他就是其中的一只，叫米团。另一只叫芝麻，很遗憾，芝麻后来没能活下来。但米团留下来了，也已经快快乐乐地长大了。
 
 米团和花椒都是长毛猫，从十月份开始，他们两个就经常黏在一起。不过花椒对米团来说实在太巨大了，站在他面前就像一辆大卡车！
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
-
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg" alt="米团，家里最小的一只" width="100%"></a><br><sub>米团，家里最小的一只</sub>
-
-</td>
-<td width="50%" valign="top" align="center">
-
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg" alt="花椒和米团：“大卡车”和小不点" width="100%"></a><br><sub>花椒和米团：“大卡车”和小不点</sub>
 
 </td>
 </tr>
@@ -264,18 +289,18 @@ https://github.com/user-attachments/assets/17ef30fd-edfe-4795-85ad-dd1f619788cb
 
 “粑粑猫”这个名字，就有一点点臭臭的来历了。他在猫砂盆里刨砂时，有时也会站不稳摔倒，把自己弄得一身脏。我就又得把他抱出来，给他擦干净。叫着叫着，“粑粑猫”又变成了“粑粑咪”，再变成“biabiami”。至于“米糖”，也是从“米团”慢慢叫出来的。这个小猫，一个名字哪里够用。（偷笑）
 
-还记得荔枝是怎么粘我的吗？米团又不一样。这个小矮子还没长大，跳不上书桌和床，就站在旁边，扯着嗓子对我喊。别看他小小一只，嗓门可大了，从小就喜欢喊！
-
 <table width="100%">
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="30%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050047_1699_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050047_1699_4.jpg" alt="从小就是个大嗓门" width="100%"></a><br><sub>从小就是个大嗓门</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050047_1699_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050047_1699_4.jpg" alt="从小就是个大嗓门" width="125"></a> &nbsp; <a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050219_1737_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050219_1737_4.jpg" alt="抱起来以后，就可以贴贴了" width="125"></a><br><sub>从小就是个大嗓门 · 抱起来以后，就可以贴贴了</sub>
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="70%" valign="top">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050219_1737_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050219_1737_4.jpg" alt="抱起来以后，就可以贴贴了" width="100%"></a><br><sub>抱起来以后，就可以贴贴了</sub>
+还记得荔枝是怎么粘我的吗？米团又不一样。这个小矮子还没长大，跳不上书桌和床，就站在旁边，扯着嗓子对我喊。别看他小小一只，嗓门可大了，从小就喜欢喊！
+
+每到这个时候，我就把他抱进怀里，或者放到被子上，他就开始跟我打闹了。
 
 </td>
 </tr>
@@ -287,8 +312,6 @@ https://github.com/user-attachments/assets/17ef30fd-edfe-4795-85ad-dd1f619788cb
 https://github.com/user-attachments/assets/f840e4d7-8e97-44b7-9dc4-bd4c76834876
 
 </details>
-
-每到这个时候，我就把他抱进怀里，或者放到被子上，他就开始跟我打闹了。
 
 这三只小猫咪，就是我现在的家人啦。他们三个每天打打闹闹，深夜陪我学习，做饭的时候又凑过来好奇。离开父母、开始独自生活以后，他们给我的日子增添了很多色彩。现在，我也已经离不开他们了。
 
