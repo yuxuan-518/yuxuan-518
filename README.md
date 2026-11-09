@@ -35,6 +35,13 @@
 
 <table width="100%">
 <tr>
+<td align="center">
+
+<p align="center"><a href="https://github.com/yuxuan-518/carpal-tunnel-detection#prototype-and-demo"><img src="assets/mpu6050-prototype-banner.png" alt="Dual-MPU6050 prototype · Arduino Uno and LED feedback" width="100%"></a><br><sub>Dual-MPU6050 prototype · Arduino Uno and LED feedback</sub></p>
+
+</td>
+</tr>
+<tr>
 <td>
 
 <p>During <strong>Cooper Union Summer STEM</strong>, Alex Wang and I noticed wrist discomfort after long hours at a computer and began researching carpal tunnel syndrome. That exploration led us to a more focused design question: <strong>Could a simple wearable help someone notice their wrist posture during computer use?</strong> <a href="https://www.nhs.uk/conditions/carpal-tunnel-syndrome/">NHS overview</a></p>
@@ -46,13 +53,6 @@
 <p><strong>My contribution:</strong> I proposed the dual-sensor design and wrote its initial MPU6050 code. I also explored vector calculations and data processing, and contributed early serial-output and feedback modules. <a href="https://github.com/yuxuan-518/carpal-tunnel-detection#team-contributions">Contribution history</a></p>
 
 <p><a href="https://github.com/yuxuan-518/carpal-tunnel-detection#prototype-and-demo">Photo &amp; demo</a> · <a href="https://github.com/yuxuan-518/carpal-tunnel-detection#why-two-mpu6050-sensors">Design rationale</a> · <a href="https://github.com/yuxuan-518/carpal-tunnel-detection#team-contributions">Team contributions</a></p>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-<p align="center"><a href="https://github.com/yuxuan-518/carpal-tunnel-detection#prototype-and-demo"><img src="assets/mpu6050-prototype-banner.png" alt="Dual-MPU6050 prototype · Arduino Uno and LED feedback" width="100%"></a><br><sub>Dual-MPU6050 prototype · Arduino Uno and LED feedback</sub></p>
 
 </td>
 </tr>
