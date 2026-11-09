@@ -8,7 +8,7 @@
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="70%" valign="top">
 
 <p>我与 Shuoqi Yang、Wenhao Jia 一起探索：<strong>怎样通过地砖结构，将脚步运动传递给压电片，并把产生的电能储存起来？</strong> 我们从复现一篇已发表的设计开始。当胶棒接触件在我们的实物中变形并损伤压电片后，研究问题变得更具体：<strong>怎样在保护压电片的同时，让机械激励更加稳定？</strong></p>
 
@@ -21,11 +21,11 @@
 <p><a href="https://github.com/yuxuan-518/piezoelectric-floor-tile#design-evolution">结构演变</a> · <a href="https://github.com/yuxuan-518/piezoelectric-floor-tile#ab-experiments">实验与数据</a> · <a href="https://github.com/yuxuan-518/piezoelectric-floor-tile/blob/main/CREDITS.md">团队分工</a></p>
 
 </td>
-<td width="35%" valign="top" align="center">
+<td width="30%" valign="top" align="center">
 
-<p align="center"><a href="https://github.com/yuxuan-518/piezoelectric-floor-tile#readme"><img src="https://raw.githubusercontent.com/yuxuan-518/piezoelectric-floor-tile/main/assets/images/v3/assembled-1.jpg" alt="V3 · 组装后的原型" width="270"></a><br><sub>V3 · 组装后的原型</sub></p>
+<p align="center"><a href="https://github.com/yuxuan-518/piezoelectric-floor-tile#readme"><img src="https://raw.githubusercontent.com/yuxuan-518/piezoelectric-floor-tile/main/assets/images/v3/assembled-1.jpg" alt="V3 · 组装后的原型" width="100%"></a><br><sub>V3 · 组装后的原型</sub></p>
 
-<p align="center"><a href="https://github.com/yuxuan-518/piezoelectric-floor-tile#readme"><img src="https://raw.githubusercontent.com/yuxuan-518/piezoelectric-floor-tile/main/assets/images/v3/IMG_7800.jpg" alt="V3 · 机构零部件" width="270"></a><br><sub>V3 · 机构零部件</sub></p>
+<p align="center"><a href="https://github.com/yuxuan-518/piezoelectric-floor-tile#readme"><img src="https://raw.githubusercontent.com/yuxuan-518/piezoelectric-floor-tile/main/assets/images/v3/IMG_7800.jpg" alt="V3 · 机构零部件" width="100%"></a><br><sub>V3 · 机构零部件</sub></p>
 
 </td>
 </tr>
