@@ -64,7 +64,8 @@
 <tr>
 <td width="34%" valign="top" align="center">
 
-<p align="center"><a href="https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/README.zh-CN.md"><img src="https://github.com/yuxuan-518/kitten-temperature-monitor/raw/main/assets/prototype-overview.jpg" alt="幼猫休息区原型，包括监测电路、液晶屏和通风风扇" width="100%"></a><br><sub>我们一起为小猫布置的休息箱</sub></p>
+<a href="https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/README.zh-CN.md"><img src="https://github.com/yuxuan-518/kitten-temperature-monitor/raw/main/assets/prototype-overview.jpg" alt="幼猫休息区原型，包括监测电路、液晶屏和通风风扇" width="100%" align="top"></a><br><sub>我们一起为小猫布置的休息箱</sub><br><br>
+<a href="https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/README.zh-CN.md"><img src="https://github.com/yuxuan-518/kitten-temperature-monitor/raw/main/assets/kittens-resting.jpg" alt="两只小猫依偎在休息箱的毯子上" width="100%" align="top"></a><br><sub>挤在一起休息的两只小猫</sub>
 
 </td>
 <td width="66%" valign="top">
