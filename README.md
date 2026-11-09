@@ -1,6 +1,4 @@
-# Hi, I'm Shaoxuan 👋
-
-**Embedded systems · Sensors · Software**
+<h1>Hi, I'm Shaoxuan 👋<img align="right" src="assets/profile-tagline-en.svg" alt="Embedded systems · Sensors · Software" width="300" height="40"></h1>
 
 [简体中文](https://github.com/yuxuan-518/yuxuan-518/blob/main/README.zh-CN.md)
 
