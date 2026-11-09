@@ -6,15 +6,30 @@
 
 ### [压电地砖——脚步能量采集](https://github.com/yuxuan-518/piezoelectric-floor-tile)
 
-我与 Shuoqi Yang、Wenhao Jia 一起探索：**怎样通过地砖结构，将脚步运动传递给压电片，并把产生的电能储存起来？** 我们从复现一篇已发表的设计开始。当胶棒接触件在我们的实物中变形并损伤压电片后，研究问题变得更具体：**怎样在保护压电片的同时，让机械激励更加稳定？**
+<table>
+<tr>
+<td width="65%" valign="top">
 
-**设计过程：** 我们先用海绵替换胶棒接触件，再开发弹簧与撞击物组成的模块，探索脱离和重复接触。第二代结构的输出波动促使我们进一步采用中心冲式机构，先压缩弹簧储能，再通过机械触发释放。**每次改进都来自对上一代结构的实际测试，以及对实测行为与预期差异的分析。**
+<p>我与 Shuoqi Yang、Wenhao Jia 一起探索：<strong>怎样通过地砖结构，将脚步运动传递给压电片，并把产生的电能储存起来？</strong> 我们从复现一篇已发表的设计开始。当胶棒接触件在我们的实物中变形并损伤压电片后，研究问题变得更具体：<strong>怎样在保护压电片的同时，让机械激励更加稳定？</strong></p>
 
-*技术说明：仓库保留了三代结构、CAD 网格、用于 V2 脱离与再次撞击分析的 Python 模型，以及电容充电数据。在各 100 次的单片结构比较中，V3 单步平均储能为 72.48 μJ，V1 衍生基线为 11.63 μJ。6.23 倍反映测试踩踏条件下的储能比；实验未测量机械输入功。*
+<p><strong>设计过程：</strong> 我们先用海绵替换胶棒接触件，再开发弹簧与撞击物组成的模块，探索脱离和重复接触。第二代结构的输出波动促使我们进一步采用中心冲式机构，先压缩弹簧储能，再通过机械触发释放。<strong>每次改进都来自对上一代结构的实际测试，以及对实测行为与预期差异的分析。</strong></p>
 
-**我的贡献：** 我主导研究思路、方法和整体分析，负责早期电路工作及 V1/V2 测量，主导 V2 机构开发、Python 仿真和弹簧参数选择，并修订、核查物理模型。队友独立采集 V3 数据后，我负责审核、完整分析和制图。我还确定了论文整体结构，并以第一作者身份将初稿修订为最终稿。
+<p><em>技术说明：仓库保留了三代结构、CAD 网格、用于 V2 脱离与再次撞击分析的 Python 模型，以及电容充电数据。在各 100 次的单片结构比较中，V3 单步平均储能为 72.48 μJ，V1 衍生基线为 11.63 μJ。6.23 倍反映测试踩踏条件下的储能比；实验未测量机械输入功。</em></p>
 
-[结构演变](https://github.com/yuxuan-518/piezoelectric-floor-tile#design-evolution) · [实验与数据](https://github.com/yuxuan-518/piezoelectric-floor-tile#ab-experiments) · [团队分工](https://github.com/yuxuan-518/piezoelectric-floor-tile/blob/main/CREDITS.md)
+<p><strong>我的贡献：</strong> 我主导研究思路、方法和整体分析，负责早期电路工作及 V1/V2 测量，主导 V2 机构开发、Python 仿真和弹簧参数选择，并修订、核查物理模型。队友独立采集 V3 数据后，我负责审核、完整分析和制图。我还确定了论文整体结构，并以第一作者身份将初稿修订为最终稿。</p>
+
+<p><a href="https://github.com/yuxuan-518/piezoelectric-floor-tile#design-evolution">结构演变</a> · <a href="https://github.com/yuxuan-518/piezoelectric-floor-tile#ab-experiments">实验与数据</a> · <a href="https://github.com/yuxuan-518/piezoelectric-floor-tile/blob/main/CREDITS.md">团队分工</a></p>
+
+</td>
+<td width="35%" valign="top" align="center">
+
+<p align="center"><a href="https://github.com/yuxuan-518/piezoelectric-floor-tile#readme"><img src="https://raw.githubusercontent.com/yuxuan-518/piezoelectric-floor-tile/main/assets/images/v3/assembled-1.jpg" alt="V3 · 组装后的原型" width="270"></a><br><sub>V3 · 组装后的原型</sub></p>
+
+<p align="center"><a href="https://github.com/yuxuan-518/piezoelectric-floor-tile#readme"><img src="https://raw.githubusercontent.com/yuxuan-518/piezoelectric-floor-tile/main/assets/images/v3/IMG_7800.jpg" alt="V3 · 机构零部件" width="270"></a><br><sub>V3 · 机构零部件</sub></p>
+
+</td>
+</tr>
+</table>
 
 ### [双 MPU6050 姿态反馈原型](https://github.com/yuxuan-518/carpal-tunnel-detection)
 
