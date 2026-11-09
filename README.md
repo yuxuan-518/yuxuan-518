@@ -64,7 +64,8 @@
 <tr>
 <td width="34%" valign="top" align="center">
 
-<p align="center"><a href="https://github.com/yuxuan-518/kitten-temperature-monitor#readme"><img src="https://github.com/yuxuan-518/kitten-temperature-monitor/raw/main/assets/prototype-overview.jpg" alt="Kitten resting-area prototype with monitoring electronics, LCD and a ventilation fan" width="100%"></a><br><sub>The resting box we put together for the kittens</sub></p>
+<a href="https://github.com/yuxuan-518/kitten-temperature-monitor#readme"><img src="https://github.com/yuxuan-518/kitten-temperature-monitor/raw/main/assets/prototype-overview.jpg" alt="Kitten resting-area prototype with monitoring electronics, LCD and a ventilation fan" width="100%" align="top"></a><br><sub>The resting box we put together for the kittens</sub><br><br>
+<a href="https://github.com/yuxuan-518/kitten-temperature-monitor#readme"><img src="https://github.com/yuxuan-518/kitten-temperature-monitor/raw/main/assets/kittens-resting.jpg" alt="Two young kittens resting together on blankets inside the enclosure" width="100%" align="top"></a><br><sub>The two kittens resting together</sub>
 
 </td>
 <td width="66%" valign="top">
