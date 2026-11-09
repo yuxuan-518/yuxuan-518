@@ -169,7 +169,12 @@ const shaoxuan = {
 
 花椒是一只非常非常傲娇的小猫咪。我住在地下室，床边和书桌附近的墙上都有小窗子，可以看到外面的地面。只要我回房间，或者从房间出来，他就会跳上对应的窗台。
 
-[▶ 花椒的窗台日常 · 25 秒](https://github.com/yuxuan-518/cat-family-album/blob/main/videos/c3f8fb4c1044b1a0be0aebc0d2817a62.mp4)
+<details>
+<summary>▶ 花椒的窗台日常 · 25 秒</summary>
+
+https://github.com/user-attachments/assets/1713b100-bc6f-4676-9772-10889fd9ed70
+
+</details>
 
 他要抱抱的方式也很奇特。他会先跑到床上，停在离我大约一个半手臂远的地方——刚好是我躺着伸手够不到、必须起身才能抱到他的距离。然后，他会发出一声“mia”，半蹲在那里看看我，又看看窗台，就像在说：“你快过来抱我，不然我就要上窗台了。”
 
@@ -219,7 +224,7 @@ const shaoxuan = {
 
 对了，每次睡觉前，荔枝都会跑到床上，一边踩奶，一边嘬嘬嘬我毛茸茸的被子。给您看一个纯享版吧！
 
-<p align="center"><a href="https://github.com/yuxuan-518/cat-family-album/blob/main/videos/da1d867bb0ac11497e5053c0ff63c2e8.mp4"><img src="assets/cat-family/lizhi-kneading-poster.png" alt="▶ 荔枝的踩奶纯享版 · 20 秒，点击观看" width="500"></a><br><a href="https://github.com/yuxuan-518/cat-family-album/blob/main/videos/da1d867bb0ac11497e5053c0ff63c2e8.mp4">▶ 荔枝的踩奶纯享版 · 20 秒，点击观看</a></p>
+https://github.com/user-attachments/assets/17ef30fd-edfe-4795-85ad-dd1f619788cb
 
 #### 米团 Mituan
 
@@ -267,7 +272,12 @@ const shaoxuan = {
 </tr>
 </table>
 
-[▶ 小小一只，朝我走过来 · 4 秒](https://github.com/yuxuan-518/cat-family-album/blob/main/videos/7168d6c4c3e20fbcafeb88d628773c4d.mp4)
+<details>
+<summary>▶ 小小一只，朝我走过来 · 4 秒</summary>
+
+https://github.com/user-attachments/assets/f840e4d7-8e97-44b7-9dc4-bd4c76834876
+
+</details>
 
 每到这个时候，我就把他抱进怀里，或者放到被子上，他就开始跟我打闹了。
 

@@ -167,7 +167,12 @@ This is Huajiao, the first cat I adopted. As you can see, he is a big, fluffy bo
 
 Huajiao is very, very proud. I live in a basement, with small windows near my bed and desk that look out at ground level. Whenever I come back to my room or leave it, he jumps onto the corresponding windowsill.
 
-[▶ A little windowsill time with Huajiao · 25 seconds](https://github.com/yuxuan-518/cat-family-album/blob/main/videos/c3f8fb4c1044b1a0be0aebc0d2817a62.mp4)
+<details>
+<summary>▶ A little windowsill time with Huajiao · 25 seconds</summary>
+
+https://github.com/user-attachments/assets/1713b100-bc6f-4676-9772-10889fd9ed70
+
+</details>
 
 He also has a very particular way of asking for a cuddle. He first runs onto the bed and stops about one and a half arm lengths away—just far enough that I cannot reach him while lying down and have to sit up to pick him up. Then he gives a little “mia,” half-crouches, looks at me, and looks at the windowsill, as if to say, “Come and get me, or I am going up there.”
 
@@ -217,7 +222,7 @@ Apparently, he is allowed to cuddle me, but I am not allowed to cuddle him. This
 
 And every night before bed, he climbs onto the blankets, kneads with his front paws, and suckles on the fuzzy fabric. Here is the uninterrupted version for you!
 
-<p align="center"><a href="https://github.com/yuxuan-518/cat-family-album/blob/main/videos/da1d867bb0ac11497e5053c0ff63c2e8.mp4"><img src="assets/cat-family/lizhi-kneading-poster.png" alt="▶ Lizhi making biscuits · 20 seconds · Click to watch" width="500"></a><br><a href="https://github.com/yuxuan-518/cat-family-album/blob/main/videos/da1d867bb0ac11497e5053c0ff63c2e8.mp4">▶ Lizhi making biscuits · 20 seconds · Click to watch</a></p>
+https://github.com/user-attachments/assets/17ef30fd-edfe-4795-85ad-dd1f619788cb
 
 #### Mituan 米团
 
@@ -265,7 +270,12 @@ Remember how Lizhi asks for affection? Mituan has his own approach. He is still 
 </tr>
 </table>
 
-[▶ Tiny Mituan coming over to me · 4 seconds](https://github.com/yuxuan-518/cat-family-album/blob/main/videos/7168d6c4c3e20fbcafeb88d628773c4d.mp4)
+<details>
+<summary>▶ Tiny Mituan coming over to me · 4 seconds</summary>
+
+https://github.com/user-attachments/assets/f840e4d7-8e97-44b7-9dc4-bd4c76834876
+
+</details>
 
 Then I pick him up, hold him in my arms or set him on the blankets, and we start playing.
 
