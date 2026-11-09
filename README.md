@@ -77,7 +77,7 @@
 
 <p>I am sharing the build and photographs as a record of that learning, and in the hope that they may give someone facing a similar situation a starting point for their own practical ideas.</p>
 
-<p><sub>I assembled the prototype; ChatGPT helped generate the Arduino sketch and explain the wiring.</sub></p>
+<p><sub>I independently programmed, wired and assembled the prototype in about an hour using code from my existing Arduino IDE library.</sub></p>
 
 <p><a href="https://github.com/yuxuan-518/kitten-temperature-monitor#readme">The project and its story</a> · <a href="https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/firmware/KittenMonitor/KittenMonitor.ino">Source code</a></p>
 
