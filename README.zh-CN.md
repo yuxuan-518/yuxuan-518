@@ -142,7 +142,7 @@ const shaoxuan = {
 ---
 
 <details>
-<summary><kbd>　<strong>我的家人</strong>　</kbd></summary>
+<summary><strong>我的家人</strong></summary>
 
 在主文书里，或许您已经了解了我的家庭情况。不过在这里，我想给您看看我现在的家。
 

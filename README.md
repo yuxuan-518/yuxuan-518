@@ -140,7 +140,7 @@ If you have read this far, thank you—really—for spending time with the littl
 ---
 
 <details>
-<summary><kbd>　<strong>My family · 我的家人</strong>　</kbd></summary>
+<summary><strong>My family · 我的家人</strong></summary>
 
 You may already know about my family circumstances from my personal statement. Here, though, I would like to show you what my home looks like now.
 
