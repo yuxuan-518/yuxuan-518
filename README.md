@@ -33,15 +33,30 @@
 
 ### [Dual-MPU6050 Posture Feedback Prototype](https://github.com/yuxuan-518/carpal-tunnel-detection)
 
-During **Cooper Union Summer STEM**, Alex Wang and I noticed wrist discomfort after long hours at a computer and began researching carpal tunnel syndrome. That exploration led us to a more focused design question: **Could a simple wearable help someone notice their wrist posture during computer use?** [NHS overview](https://www.nhs.uk/conditions/carpal-tunnel-syndrome/)
+<table width="100%">
+<tr>
+<td>
 
-**Design process:** We narrowed the broad health concern to one behavior a prototype could respond to: the hand bending up or down relative to the forearm. We explored placing one motion sensor on the hand and another on the forearm, then using feedback to draw attention to wrist posture. This gave us a concrete idea to build and investigate.
+<p>During <strong>Cooper Union Summer STEM</strong>, Alex Wang and I noticed wrist discomfort after long hours at a computer and began researching carpal tunnel syndrome. That exploration led us to a more focused design question: <strong>Could a simple wearable help someone notice their wrist posture during computer use?</strong> <a href="https://www.nhs.uk/conditions/carpal-tunnel-syndrome/">NHS overview</a></p>
 
-*Technical note: The prototype compares motion data from two MPU6050 sensors and provides LED feedback.*
+<p><strong>Design process:</strong> We narrowed the broad health concern to one behavior a prototype could respond to: the hand bending up or down relative to the forearm. We explored placing one motion sensor on the hand and another on the forearm, then using feedback to draw attention to wrist posture. This gave us a concrete idea to build and investigate.</p>
 
-**My contribution:** I proposed the dual-sensor design and wrote its initial MPU6050 code. I also explored vector calculations and data processing, and contributed early serial-output and feedback modules. [Contribution history](https://github.com/yuxuan-518/carpal-tunnel-detection#team-contributions)
+<p><em>Technical note: The prototype compares motion data from two MPU6050 sensors and provides LED feedback.</em></p>
 
-[Photo & demo](https://github.com/yuxuan-518/carpal-tunnel-detection#prototype-and-demo) · [Design rationale](https://github.com/yuxuan-518/carpal-tunnel-detection#why-two-mpu6050-sensors) · [Team contributions](https://github.com/yuxuan-518/carpal-tunnel-detection#team-contributions)
+<p><strong>My contribution:</strong> I proposed the dual-sensor design and wrote its initial MPU6050 code. I also explored vector calculations and data processing, and contributed early serial-output and feedback modules. <a href="https://github.com/yuxuan-518/carpal-tunnel-detection#team-contributions">Contribution history</a></p>
+
+<p><a href="https://github.com/yuxuan-518/carpal-tunnel-detection#prototype-and-demo">Photo &amp; demo</a> · <a href="https://github.com/yuxuan-518/carpal-tunnel-detection#why-two-mpu6050-sensors">Design rationale</a> · <a href="https://github.com/yuxuan-518/carpal-tunnel-detection#team-contributions">Team contributions</a></p>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<p align="center"><a href="https://github.com/yuxuan-518/carpal-tunnel-detection#prototype-and-demo"><img src="assets/mpu6050-prototype-banner.png" alt="Dual-MPU6050 prototype · Arduino Uno and LED feedback" width="100%"></a><br><sub>Dual-MPU6050 prototype · Arduino Uno and LED feedback</sub></p>
+
+</td>
+</tr>
+</table>
 
 ### [ATmega2560 — Embedded Foundations](https://github.com/yuxuan-518/atmega2560-embedded-foundations)
 
