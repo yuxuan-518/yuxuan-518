@@ -4,17 +4,6 @@
 
 [English](https://github.com/yuxuan-518/yuxuan-518#readme)
 
-## 关于我
-
-```javascript
-const shaoxuan = {
-  interests: ["嵌入式系统", "传感器", "应用开发"],
-  learning: ["C / AVR C", "Swift / SwiftUI"],
-  hardware: ["Arduino Uno", "ATmega328P", "MPU6050"],
-  approach: "制作原型，实际测试，从结果中学习"
-};
-```
-
 ## 项目
 
 ### [压电地砖——脚步能量采集](https://github.com/yuxuan-518/piezoelectric-floor-tile)
@@ -79,3 +68,13 @@ const shaoxuan = {
 
 仓库中记录了原型及开发过程中的探索。各项目 README 介绍了当前功能、局限和合作成员。
 
+## 关于我
+
+```javascript
+const shaoxuan = {
+  interests: ["嵌入式系统", "传感器", "应用开发"],
+  learning: ["C / AVR C", "Swift / SwiftUI"],
+  hardware: ["Arduino Uno", "ATmega328P", "MPU6050"],
+  approach: "制作原型，实际测试，从结果中学习"
+};
+```
