@@ -4,17 +4,6 @@
 
 [简体中文](https://github.com/yuxuan-518/yuxuan-518/blob/main/README.zh-CN.md)
 
-## About me
-
-```javascript
-const shaoxuan = {
-  interests: ["Embedded systems", "Sensors", "App development"],
-  learning: ["C / AVR C", "Swift / SwiftUI"],
-  hardware: ["Arduino Uno", "ATmega328P", "MPU6050"],
-  approach: "Build a prototype, test it, and learn from the results"
-};
-```
-
 ## Projects
 
 ### [Piezoelectric Floor Tile — Footstep Energy Harvesting](https://github.com/yuxuan-518/piezoelectric-floor-tile)
@@ -79,3 +68,13 @@ During **Cooper Union STEM Saturdays: Inventor’s Lab — Data Visualization (2
 
 My repositories document both working prototypes and the experiments that led to them. Each project's README explains its current features, limitations, and collaborators.
 
+## About me
+
+```javascript
+const shaoxuan = {
+  interests: ["Embedded systems", "Sensors", "App development"],
+  learning: ["C / AVR C", "Swift / SwiftUI"],
+  hardware: ["Arduino Uno", "ATmega328P", "MPU6050"],
+  approach: "Build a prototype, test it, and learn from the results"
+};
+```
