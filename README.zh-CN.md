@@ -58,28 +58,28 @@
 </tr>
 </table>
 
-### [照顾后院捡到的幼猫——环境监测与通风](https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/README.zh-CN.md)
+### [后院里的两只小猫](https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/README.zh-CN.md)
 
 <table width="100%">
 <tr>
 <td width="34%" valign="top" align="center">
 
-<p align="center"><a href="https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/README.zh-CN.md"><img src="https://github.com/yuxuan-518/kitten-temperature-monitor/raw/main/assets/prototype-overview.jpg" alt="幼猫休息区原型，包括监测电路、液晶屏和通风风扇" width="100%"></a><br><sub>从照顾一只捡回来的幼猫开始</sub></p>
+<p align="center"><a href="https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/README.zh-CN.md"><img src="https://github.com/yuxuan-518/kitten-temperature-monitor/raw/main/assets/prototype-overview.jpg" alt="幼猫休息区原型，包括监测电路、液晶屏和通风风扇" width="100%"></a><br><sub>我们一起为小猫布置的休息箱</sub></p>
 
 </td>
 <td width="66%" valign="top">
 
-<p>这个项目始于我在后院捡到的一只被遗弃的幼猫。<strong>刚发现它时，我很慌张。</strong>我想把它照顾好，却不知道该从哪里开始。眼前这个小生命，让照护变成了一件具体而迫切的事：先为它安顿休息的地方，再一点点学习怎样留意它的需要。</p>
+<p>那天晚上，我正准备送同学回家，忽然听见后院传来很响的喵喵声。我和朋友循着声音找过去，发现两只小猫躺在地上，看起来像是被遗弃了。其中一只特别瘦，天气又冷，身上还有虫子在爬。我当时很慌，马上和朋友把它们带回家，烧水给它们擦身子、清理虫子，再冲奶粉喂它们。</p>
 
-<p>动手搭建装置，让我把一部分不安转化成了行动。我做了一个简单的温湿度监测器，观察幼猫休息区周围的空气环境，通过屏幕和报警提示提醒自己注意变化，也加装了电风扇用于通风。在学习照顾它的过程中，这个小装置给了我一种更具体的观察方式。</p>
+<p>我们三个人很快分了工：一个朋友给小猫清理身体、喂奶，另一个给箱子开口，铺好垫子和被子，我就在旁边写程序、接线。<strong>我用自己在 Arduino IDE 中已有的代码库，花了约一个小时，独立完成程序和接线。</strong>屏幕可以显示休息区周围的空气温湿度，温度异常时发出提示，我还加了一个电风扇通风。</p>
 
-<p><strong>这段经历也让我重新理解了社区服务的意义。</strong>关怀可以从自己生活的地方开始，从注意到一个容易被忽略的小生命、愿意为它承担责任开始。推动我做这个项目的问题很朴素：它现在需要什么？我能用自己已有的知识和手边的材料，为它做些什么？</p>
+<p>之后，我们轮流照顾它们。我负责半夜十二点和凌晨三点的喂奶，喂完再睡；同学早上六点起床，七点左右过来接班。那几天，喂奶、守着它们、等下一个人来接班，成了我们共同的日常。</p>
 
-<p>我把制作过程和照片整理出来，记录这段从慌乱到尝试承担责任的经历，也希望能给遇到类似情况的人提供一点动手解决问题的思路。</p>
+<p>其中一只小猫在三四天后没能活下来。另一只现在还和我生活在一起。它有小脑发育不良，走路摇摇晃晃的，但活了下来，现在过得很好。</p>
 
-<p><sub>我使用自己在 Arduino IDE 中已有的代码库，在约一个小时内独立完成了原型的编程、接线与组装。</sub></p>
+<p><strong>这次经历让我很具体地感受到，自己学过的东西能在生活里派上用场。</strong>我写代码的时候，朋友就在旁边喂奶、铺箱子。我们一起熬夜、分工、接班，也因此更亲近了。我想把这个项目放在这里，记下当时我们怎样用各自能做的事，去照顾眼前的两只小猫。</p>
 
-<p><a href="https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/README.zh-CN.md">项目故事与实物照片</a> · <a href="https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/firmware/KittenMonitor/KittenMonitor.ino">源代码</a></p>
+<p><a href="https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/README.zh-CN.md">项目与实物照片</a> · <a href="https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/firmware/KittenMonitor/KittenMonitor.ino">源代码</a></p>
 
 </td>
 </tr>
