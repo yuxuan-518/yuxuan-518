@@ -77,7 +77,7 @@
 
 <p>我把制作过程和照片整理出来，记录这段从慌乱到尝试承担责任的经历，也希望能给遇到类似情况的人提供一点动手解决问题的思路。</p>
 
-<p><sub>原型由我组装；ChatGPT 帮助生成 Arduino 程序并解释接线。</sub></p>
+<p><sub>我使用自己在 Arduino IDE 中已有的代码库，在约一个小时内独立完成了原型的编程、接线与组装。</sub></p>
 
 <p><a href="https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/README.zh-CN.md">项目故事与实物照片</a> · <a href="https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/firmware/KittenMonitor/KittenMonitor.ino">源代码</a></p>
 
