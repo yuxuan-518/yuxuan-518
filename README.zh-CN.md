@@ -137,8 +137,12 @@ const shaoxuan = {
 
 如果您已经阅读了上面的内容，我想说一声非常感谢，非常感谢您浏览了一个小小的高中生折腾出的一些小小的初级项目。感谢您的关注和耐心阅读。接下来，我想谈一谈我的另一面。
 
+<a name="my-family"></a>
+
+---
+
 <details>
-<summary><strong>我的家人</strong></summary>
+<summary><kbd>　<strong>我的家人</strong>　</kbd></summary>
 
 在主文书里，或许您已经了解了我的家庭情况。不过在这里，我想给您看看我现在的家。
 
@@ -185,6 +189,8 @@ https://github.com/user-attachments/assets/1713b100-bc6f-4676-9772-10889fd9ed70
 
 真是一个傲娇的小猫。
 
+[↑ 回到栏目标题](#my-family)
+
 #### 荔枝 Lizhi
 
 然后这一只，他叫荔枝，是我从小养到大的小猫咪！您看看，他刚到家的时候只有这么大！！
@@ -226,6 +232,8 @@ https://github.com/user-attachments/assets/1713b100-bc6f-4676-9772-10889fd9ed70
 对了，每次睡觉前，荔枝都会跑到床上，一边踩奶，一边嘬嘬嘬我毛茸茸的被子。给您看一个纯享版吧！
 
 https://github.com/user-attachments/assets/17ef30fd-edfe-4795-85ad-dd1f619788cb
+
+[↑ 回到栏目标题](#my-family)
 
 #### 米团 Mituan
 
@@ -286,4 +294,8 @@ https://github.com/user-attachments/assets/f840e4d7-8e97-44b7-9dc4-bd4c76834876
 
 我真的真的很爱他们！！！
 
+[↑ 回到栏目标题](#my-family)
+
 </details>
+
+---

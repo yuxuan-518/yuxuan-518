@@ -135,8 +135,12 @@ const shaoxuan = {
 
 If you have read this far, thank you—really—for spending time with the little beginner projects that this high-school student has been tinkering with. Thank you for your interest and patience. Below, I would like to show you another side of me.
 
+<a name="my-family"></a>
+
+---
+
 <details>
-<summary><strong>My family · 我的家人</strong></summary>
+<summary><kbd>　<strong>My family · 我的家人</strong>　</kbd></summary>
 
 You may already know about my family circumstances from my personal statement. Here, though, I would like to show you what my home looks like now.
 
@@ -183,6 +187,8 @@ So I get up and hold him. Five or six minutes later, he wants to leave again. I 
 
 Such a proud little cat.
 
+[↑ Back to the family heading](#my-family)
+
 #### Lizhi 荔枝
 
 And this is Lizhi, whom I have raised since he was tiny! Look how small he was when he first came home!!
@@ -224,6 +230,8 @@ Apparently, he is allowed to cuddle me, but I am not allowed to cuddle him. This
 And every night before bed, he climbs onto the blankets, kneads with his front paws, and suckles on the fuzzy fabric. Here is the uninterrupted version for you!
 
 https://github.com/user-attachments/assets/17ef30fd-edfe-4795-85ad-dd1f619788cb
+
+[↑ Back to the family heading](#my-family)
 
 #### Mituan 米团
 
@@ -284,4 +292,8 @@ These three cats are my family now. They tumble around together, keep me company
 
 I really, really love them!!!
 
+[↑ Back to the family heading](#my-family)
+
 </details>
+
+---
