@@ -133,9 +133,10 @@ const shaoxuan = {
 };
 ```
 
-### My other side · My family
-
 If you have read this far, thank you—really—for spending time with the little beginner projects that this high-school student has been tinkering with. Thank you for your interest and patience. Below, I would like to show you another side of me.
+
+<details>
+<summary><strong>My family · 我的家人</strong></summary>
 
 You may already know about my family circumstances from my personal statement. Here, though, I would like to show you what my home looks like now.
 
@@ -282,3 +283,5 @@ Then I pick him up, hold him in my arms or set him on the blankets, and we start
 These three cats are my family now. They tumble around together, keep me company while I study late at night, and come over to investigate when I cook. After leaving my parents and beginning to live on my own, they brought so much color into my days. Now I cannot imagine my life without them.
 
 I really, really love them!!!
+
+</details>
