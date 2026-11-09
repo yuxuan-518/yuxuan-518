@@ -1,6 +1,4 @@
-# 你好，我是熊少轩 👋
-
-**嵌入式系统 · 传感器 · 软件开发**
+<h1>你好，我是熊少轩 👋<img align="right" src="assets/profile-tagline-zh.svg" alt="嵌入式系统 · 传感器 · 软件开发" width="300" height="40"></h1>
 
 [English](https://github.com/yuxuan-518/yuxuan-518#readme)
 
