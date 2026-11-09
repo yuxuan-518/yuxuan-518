@@ -132,3 +132,143 @@ const shaoxuan = {
   approach: "Build a prototype, test it, and learn from the results"
 };
 ```
+
+### My other side · My family
+
+If you have read this far, thank you—really—for spending time with the little beginner projects that this high-school student has been tinkering with. Thank you for your interest and patience. Below, I would like to show you another side of me.
+
+You may already know about my family circumstances from my personal statement. Here, though, I would like to show you what my home looks like now.
+
+[Huajiao](#huajiao-花椒) · [Lizhi](#lizhi-荔枝) · [Mituan](#mituan-米团) · [Full photo album](https://github.com/yuxuan-518/cat-family-album)
+
+#### Huajiao 花椒
+
+This is Huajiao, the first cat I adopted. As you can see, he is a big, fluffy boy. What you might not guess is that his temper is just as big—especially when someone touches his backside! But he has plenty of adorable moments, too. Here are a few.
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045526_1547_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045526_1547_4.jpg" alt="Huajiao, in all his fluffy glory" width="100%"></a><br><sub>Huajiao, in all his fluffy glory</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045806_1615_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045806_1615_4.jpg" alt="Watching me from the windowsill" width="100%"></a><br><sub>Watching me from the windowsill</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045429_1521_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045429_1521_4.jpg" alt="Sometimes he does let me hold him" width="100%"></a><br><sub>Sometimes he does let me hold him</sub>
+
+</td>
+</tr>
+</table>
+
+Huajiao is very, very proud. I live in a basement, with small windows near my bed and desk that look out at ground level. Whenever I come back to my room or leave it, he jumps onto the corresponding windowsill.
+
+[▶ A little windowsill time with Huajiao · 25 seconds](https://github.com/yuxuan-518/cat-family-album/blob/main/videos/c3f8fb4c1044b1a0be0aebc0d2817a62.mp4)
+
+He also has a very particular way of asking for a cuddle. He first runs onto the bed and stops about one and a half arm lengths away—just far enough that I cannot reach him while lying down and have to sit up to pick him up. Then he gives a little “mia,” half-crouches, looks at me, and looks at the windowsill, as if to say, “Come and get me, or I am going up there.”
+
+So I get up and hold him. Five or six minutes later, he wants to leave again. I let him go, and he makes his way to the other pillow on my bed. That pillow belongs to him now. Every night, he sleeps there beside me.
+
+<p align="center"><a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045646_1583_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045646_1583_4.jpg" alt="That pillow is officially his now" width="500"></a><br><sub>That pillow is officially his now</sub></p>
+
+Such a proud little cat.
+
+#### Lizhi 荔枝
+
+And this is Lizhi, whom I have raised since he was tiny! Look how small he was when he first came home!!
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045818_1620_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045818_1620_4.jpg" alt="When Lizhi first came home" width="100%"></a><br><sub>When Lizhi first came home</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045855_1637_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045855_1637_4.jpg" alt="He really was this tiny" width="100%"></a><br><sub>He really was this tiny</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050131_1719_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050131_1719_4.jpg" alt="Lizhi now" width="100%"></a><br><sub>Lizhi now</sub>
+
+</td>
+</tr>
+</table>
+
+So cute!!!
+
+Of course, his arrival made Huajiao very unhappy. To help Huajiao adjust, I moved a mattress outside my room and slept there with him for two or three weeks. That left little Lizhi free to drink his milk and sleep peacefully in my room, without getting swatted. (Hehe.)
+
+Now I often call Lizhi my “little monkey.” He runs around all day, chasing Huajiao and trying to play with that enormous fluffy tail. Huajiao acts like a very aloof older brother: he mostly watches and pretends not to be interested.
+
+If Huajiao is proud, Lizhi is an expert at demanding affection. Whenever I am doing homework or coding at my desk, he comes up and keeps rubbing his little head against my hand until I stop. I pet him, he licks me, and I sometimes press my forehead gently against his.
+
+<p align="center"><a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045959_1676_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045959_1676_4.jpg" alt="My desk companion while I code" width="420"></a><br><sub>My desk companion while I code</sub></p>
+
+But he has rules. When he wants to be close, he rubs and licks and will not let me do anything else. When I want to pick him up or sneak in a kiss while he is playing, he pushes his little stinky paws against my face.
+
+Apparently, he is allowed to cuddle me, but I am not allowed to cuddle him. This cat!
+
+And every night before bed, he climbs onto the blankets, kneads with his front paws, and suckles on the fuzzy fabric. Here is the uninterrupted version for you!
+
+<p align="center"><a href="https://github.com/yuxuan-518/cat-family-album/blob/main/videos/da1d867bb0ac11497e5053c0ff63c2e8.mp4"><img src="assets/cat-family/lizhi-kneading-poster.png" alt="▶ Lizhi making biscuits · 20 seconds · Click to watch" width="500"></a><br><a href="https://github.com/yuxuan-518/cat-family-album/blob/main/videos/da1d867bb0ac11497e5053c0ff63c2e8.mp4">▶ Lizhi making biscuits · 20 seconds · Click to watch</a></p>
+
+#### Mituan 米团
+
+Last, here is Mituan.
+
+You may have seen the project about the two kittens in my backyard above. He is one of those kittens. The other was called Zhima; sadly, Zhima did not survive. Mituan stayed with me and has been growing up happily.
+
+Mituan and Huajiao are both long-haired cats, and since October they have often been cuddled up together. Huajiao is enormous next to him, though—like a truck parked in front of a tiny kitten!
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg" alt="Mituan, the smallest member of the family" width="100%"></a><br><sub>Mituan, the smallest member of the family</sub>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg" alt="Huajiao and Mituan: the truck and the tiny kitten" width="100%"></a><br><sub>Huajiao and Mituan: the truck and the tiny kitten</sub>
+
+</td>
+</tr>
+</table>
+
+Mituan also has the most nicknames in the house: Wobbly Cat, Poop Cat, biabiami, Mitang… all of them mean him.
+
+“Wobbly Cat” comes from the way he walks. He did not develop fully as a kitten, so he is unsteady and sometimes tumbles over. It does not stop him from playing or asking us for attention.
+
+“Poop Cat” has a slightly smellier origin. Sometimes he loses his balance while digging in the litter box and gets himself dirty, so I pick him up and clean him again. That nickname gradually became “baba-mi,” then “biabiami.” “Mitang” is another little variation on “Mituan.” One name could never be enough for this cat. (Hehe.)
+
+Remember how Lizhi asks for affection? Mituan has his own approach. He is still too small to jump onto my desk or bed, so he stands beside it and shouts for me. He may be tiny, but his voice certainly is not. He has been loud since he was little!
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050047_1699_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050047_1699_4.jpg" alt="A big voice, right from the beginning" width="100%"></a><br><sub>A big voice, right from the beginning</sub>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050219_1737_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050219_1737_4.jpg" alt="Once I pick him up, we can cuddle" width="100%"></a><br><sub>Once I pick him up, we can cuddle</sub>
+
+</td>
+</tr>
+</table>
+
+[▶ Tiny Mituan coming over to me · 4 seconds](https://github.com/yuxuan-518/cat-family-album/blob/main/videos/7168d6c4c3e20fbcafeb88d628773c4d.mp4)
+
+Then I pick him up, hold him in my arms or set him on the blankets, and we start playing.
+
+These three cats are my family now. They tumble around together, keep me company while I study late at night, and come over to investigate when I cook. After leaving my parents and beginning to live on my own, they brought so much color into my days. Now I cannot imagine my life without them.
+
+I really, really love them!!!
