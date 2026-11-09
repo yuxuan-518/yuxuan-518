@@ -33,15 +33,30 @@
 
 ### [双 MPU6050 姿态反馈原型](https://github.com/yuxuan-518/carpal-tunnel-detection)
 
-在 **Cooper Union Summer STEM** 期间，我和 Alex Wang 注意到长时间使用电脑后会有手腕不适，于是开始查阅腕管综合征的资料。这段探索引出了一个更具体的设计问题：**能否用一个简单的可穿戴原型，帮助使用者留意电脑工作时的手腕姿势？** [NHS 症状与风险因素介绍](https://www.nhs.uk/conditions/carpal-tunnel-syndrome/)
+<table width="100%">
+<tr>
+<td>
 
-**设计思路：**我们把宽泛的健康关注点收窄到一种原型可以观察的动作：手相对于前臂向上或向下弯曲。我们尝试在手部和前臂各放置一个动作传感器，并通过反馈提醒佩戴者留意手腕姿势。这样，最初的健康问题就变成了一个可以动手制作和探索的具体设计。
+<p>在 <strong>Cooper Union Summer STEM</strong> 期间，我和 Alex Wang 注意到长时间使用电脑后会有手腕不适，于是开始查阅腕管综合征的资料。这段探索引出了一个更具体的设计问题：<strong>能否用一个简单的可穿戴原型，帮助使用者留意电脑工作时的手腕姿势？</strong> <a href="https://www.nhs.uk/conditions/carpal-tunnel-syndrome/">NHS 症状与风险因素介绍</a></p>
 
-*技术说明：原型使用两个 MPU6050 传感器比较动作数据，并通过 LED 提供反馈。*
+<p><strong>设计思路：</strong>我们把宽泛的健康关注点收窄到一种原型可以观察的动作：手相对于前臂向上或向下弯曲。我们尝试在手部和前臂各放置一个动作传感器，并通过反馈提醒佩戴者留意手腕姿势。这样，最初的健康问题就变成了一个可以动手制作和探索的具体设计。</p>
 
-**我的贡献：**我提出了双传感器设计并编写最初的 MPU6050 代码，也探索了向量计算和数据处理，并参与早期串口输出与反馈模块的编写。[查看提交与团队分工](https://github.com/yuxuan-518/carpal-tunnel-detection/blob/main/README.zh-CN.md#团队分工)
+<p><em>技术说明：原型使用两个 MPU6050 传感器比较动作数据，并通过 LED 提供反馈。</em></p>
 
-[实物与演示](https://github.com/yuxuan-518/carpal-tunnel-detection#prototype-and-demo) · [设计思路](https://github.com/yuxuan-518/carpal-tunnel-detection#why-two-mpu6050-sensors) · [团队分工](https://github.com/yuxuan-518/carpal-tunnel-detection#team-contributions)
+<p><strong>我的贡献：</strong>我提出了双传感器设计并编写最初的 MPU6050 代码，也探索了向量计算和数据处理，并参与早期串口输出与反馈模块的编写。<a href="https://github.com/yuxuan-518/carpal-tunnel-detection/blob/main/README.zh-CN.md#团队分工">查看提交与团队分工</a></p>
+
+<p><a href="https://github.com/yuxuan-518/carpal-tunnel-detection#prototype-and-demo">实物与演示</a> · <a href="https://github.com/yuxuan-518/carpal-tunnel-detection#why-two-mpu6050-sensors">设计思路</a> · <a href="https://github.com/yuxuan-518/carpal-tunnel-detection#team-contributions">团队分工</a></p>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<p align="center"><a href="https://github.com/yuxuan-518/carpal-tunnel-detection#prototype-and-demo"><img src="assets/mpu6050-prototype-banner.png" alt="双 MPU6050 实物原型 · Arduino Uno 与 LED 反馈电路" width="100%"></a><br><sub>双 MPU6050 实物原型 · Arduino Uno 与 LED 反馈电路</sub></p>
+
+</td>
+</tr>
+</table>
 
 ### [ATmega2560——嵌入式基础学习](https://github.com/yuxuan-518/atmega2560-embedded-foundations)
 
