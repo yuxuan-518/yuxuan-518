@@ -58,6 +58,33 @@
 </tr>
 </table>
 
+### [小猫自动喂粮系统](https://github.com/yuxuan-518/automatic-cat-feeder)
+
+<table width="100%">
+<tr>
+<td width="70%" valign="top">
+
+<p>在 Alba Studio，我和 Shuoqi Yang、Wenhao Jia 一起做了一台能储存干猫粮并将其送入托盘的喂粮原型。我们想弄清楚<strong>料斗的形状和电机的扭矩会怎样影响猫粮通过下粮机构。</strong></p>
+
+<p><strong>设计过程。</strong>最初的实物测试发现，猫粮容易在料斗出口附近卡住或漏出。Shuoqi 把出口缩到 50 cm²，并调整了导流路径。第一版 NEMA17 电机带载时扭矩不足，我随后测试了能带动下粮机构的高扭矩电机。新电机约重 5 kg，我们把它与主体分开布置，以降低倾倒风险。</p>
+
+<p><em>技术说明。仓库收录了 STEP 装配模型、两套用于 Mega 2560 的独立 AVR C 工程，以及实物和电机测试录像。第二版控制器使用 CL86Y-V20 驱动器，在起停时逐步调整脉冲频率。</em></p>
+
+<p><strong>我的贡献。</strong>我开发了两版电机控制程序，并负责电气与电机测试。第一版用独立定时器输出脉冲，通过串口控制两个 NEMA17 通道。第二版加入加速、减速、受控换向和可重复的单次测试流程。我也记录了两版的接线、驱动设置和控制行为。</p>
+
+<p><a href="https://github.com/yuxuan-518/automatic-cat-feeder#physical-prototype-and-mechanism-animations">实物与结构</a> · <a href="https://github.com/yuxuan-518/automatic-cat-feeder/blob/main/docs/motor-and-automation.md">电机与自动化</a> · <a href="https://github.com/yuxuan-518/automatic-cat-feeder#contributors">团队分工</a></p>
+
+</td>
+<td width="30%" valign="top" align="center">
+
+<p align="center"><a href="https://github.com/yuxuan-518/automatic-cat-feeder#cad-animations"><img src="https://raw.githubusercontent.com/yuxuan-518/automatic-cat-feeder/main/assets/images/assembly-animation.gif" alt="整机装配与料斗" width="90%"></a><br><sub>整机装配与料斗</sub></p>
+
+<p align="center"><a href="https://github.com/yuxuan-518/automatic-cat-feeder#cad-animations"><img src="https://raw.githubusercontent.com/yuxuan-518/automatic-cat-feeder/main/assets/images/underside-animation.gif" alt="底部结构与下粮机构" width="90%"></a><br><sub>底部结构与下粮机构</sub></p>
+
+</td>
+</tr>
+</table>
+
 ### [后院里的两只小猫](https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/README.zh-CN.md)
 
 <table width="100%">
