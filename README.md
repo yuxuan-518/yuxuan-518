@@ -34,15 +34,12 @@
 ### [Dual-MPU6050 Posture Feedback Prototype](https://github.com/yuxuan-518/carpal-tunnel-detection)
 
 <table width="100%">
+<tr aria-hidden="true"></tr>
 <tr>
-<td align="center">
+<td>
 
 <p align="center"><a href="https://github.com/yuxuan-518/carpal-tunnel-detection#prototype-and-demo"><img src="https://raw.githubusercontent.com/yuxuan-518/yuxuan-518/e76867bf0c30a2567fa8998bc958fcdc9c98134d/assets/mpu6050-prototype-banner-dark.png" alt="Dual-MPU6050 prototype · Arduino Uno and LED feedback" width="92%"></a><br><sub>Dual-MPU6050 prototype · Arduino Uno and LED feedback</sub></p>
 
-</td>
-</tr>
-<tr>
-<td>
 
 <p>During <strong>Cooper Union Summer STEM</strong>, I looked into carpal tunnel syndrome after noticing wrist discomfort from long hours at a computer. I explored <strong>whether a simple wearable could help people notice their wrist posture while using a computer.</strong> <a href="https://www.nhs.uk/conditions/carpal-tunnel-syndrome/">NHS overview</a></p>
 
@@ -88,6 +85,7 @@
 ### [Two Kittens in the Backyard](https://github.com/yuxuan-518/kitten-temperature-monitor)
 
 <table width="100%">
+<tr aria-hidden="true"></tr>
 <tr>
 <td width="34%" valign="top" align="center">
 
@@ -115,6 +113,10 @@
 
 ### [ATmega2560 — Embedded Foundations](https://github.com/yuxuan-518/atmega2560-embedded-foundations)
 
+<table width="100%">
+<tr>
+<td>
+
 After Cooper Union's six-week Summer STEM program, I realized I needed more time to organize my understanding of embedded development. While exploring Cornell's ECE curriculum, I discovered ECE 4760 and was drawn to its birdsong synthesis, digital Galton board, and feedback-control projects. **To prepare for studying this material more deeply during twelfth grade, I began asking: How could a series of progressive exercises connect scattered knowledge into a foundation I could understand and use?**
 
 **Learning process:** Using the skills needed for ECE 4760 as a reference, I worked with GPT to break the goals into foundational ATmega2560 exercises. Starting with LEDs, buttons, and register operations, I gradually added timers, interrupts, serial communication, sensors, and motion control before bringing them together into an integrated system. **My focus gradually expanded from implementing individual functions to understanding how modules work together and why they can interfere with one another.**
@@ -125,7 +127,16 @@ After Cooper Union's six-week Summer STEM program, I realized I needed more time
 
 [Motivation and learning progression](https://github.com/yuxuan-518/atmega2560-embedded-foundations#why-i-started) · [Selected projects and debugging](https://github.com/yuxuan-518/atmega2560-embedded-foundations#three-projects-to-explore) · [Source code](https://github.com/yuxuan-518/atmega2560-embedded-foundations/tree/main/code)
 
+</td>
+</tr>
+</table>
+
 ### [Kesty — Study Management App](https://github.com/yuxuan-518/kesty-support)
+
+<table width="100%">
+<tr aria-hidden="true"></tr>
+<tr>
+<td>
 
 During application season, exam preparation, and research, students often have several large commitments competing for their time. **A goal like completing the Common App or writing a research paper is made up of many smaller pieces, not one checkbox.**
 
@@ -137,7 +148,15 @@ During application season, exam preparation, and research, students often have s
 
 **[Download on the App Store](https://apps.apple.com/us/app/kesty/id6760517321)** · [Source code and demo](https://github.com/yuxuan-518/kesty-support#readme)
 
+</td>
+</tr>
+</table>
+
 ### [Data Visualization and Storytelling — Cooper Union](https://github.com/yuxuan-518/cooper-union-data-visualization)
+
+<table width="100%">
+<tr>
+<td>
 
 During **Cooper Union STEM Saturdays: Inventor’s Lab — Data Visualization (2024)**, I practiced turning tables into charts that an audience could understand. The final project compares the share of people employed across age groups, education levels, and gender. **The charts make group differences and changes over time visible without asking viewers to read the raw data row by row.**
 
@@ -146,6 +165,10 @@ During **Cooper Union STEM Saturdays: Inventor’s Lab — Data Visualization (2
 *Technical note: The final project includes a seven-worksheet Excel analysis, a 22-slide presentation, and Chinese/English rehearsal notes. Project pages display chart previews with short explanations.*
 
 [Final project: charts and explanation](https://github.com/yuxuan-518/cooper-union-data-visualization/tree/main/final-project/employment-analysis#readme) · [Classroom exercises](https://github.com/yuxuan-518/cooper-union-data-visualization#classroom-exercises) · [Course learning](https://github.com/yuxuan-518/cooper-union-data-visualization#what-i-practiced-during-the-course)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -181,17 +204,17 @@ This is Peper, the first cat I adopted. As you can see, he is a big, fluffy boy.
 <tr>
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045526_1547_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045526_1547_4.jpg" alt="Peper, in all his fluffy glory" width="160"></a><br><sub>Peper, in all his fluffy glory</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045526_1547_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045526_1547_4.jpg" alt="Peper, in all his fluffy glory" width="160"></a>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045806_1615_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045806_1615_4.jpg" alt="Watching me from the windowsill" width="160"></a><br><sub>Watching me from the windowsill</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045806_1615_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045806_1615_4.jpg" alt="Watching me from the windowsill" width="160"></a>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045329_1504_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045329_1504_4.jpg" alt="Sometimes he does let me hold him" width="160"></a><br><sub>Sometimes he does let me hold him</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045329_1504_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045329_1504_4.jpg" alt="Sometimes he does let me hold him" width="160"></a>
 
 </td>
 </tr>
@@ -210,7 +233,7 @@ https://github.com/user-attachments/assets/1713b100-bc6f-4676-9772-10889fd9ed70
 <tr>
 <td width="30%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045646_1583_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045646_1583_4.jpg" alt="That pillow is officially his now" width="220"></a><br><sub>That pillow is officially his now</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045646_1583_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045646_1583_4.jpg" alt="That pillow is officially his now" width="220"></a>
 
 </td>
 <td width="70%" valign="top">
@@ -235,17 +258,17 @@ And this is Lychee, whom I have raised since he was tiny! Look how small he was 
 <tr>
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045818_1620_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045818_1620_4.jpg" alt="When Lychee first came home" width="160"></a><br><sub>When Lychee first came home</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045818_1620_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045818_1620_4.jpg" alt="When Lychee first came home" width="160"></a>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045855_1637_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045855_1637_4.jpg" alt="He really was this tiny" width="160"></a><br><sub>He really was this tiny</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045855_1637_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045855_1637_4.jpg" alt="He really was this tiny" width="160"></a>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050131_1719_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050131_1719_4.jpg" alt="Lychee now" width="160"></a><br><sub>Lychee now</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050131_1719_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050131_1719_4.jpg" alt="Lychee now" width="160"></a>
 
 </td>
 </tr>
@@ -261,7 +284,7 @@ Now I often call Lychee my “little monkey.” He runs around all day, chasing 
 <tr>
 <td width="30%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045959_1676_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045959_1676_4.jpg" alt="My desk companion while I code" width="220"></a><br><sub>My desk companion while I code</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045959_1676_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045959_1676_4.jpg" alt="My desk companion while I code" width="220"></a>
 
 </td>
 <td width="70%" valign="top">
@@ -293,7 +316,7 @@ https://github.com/user-attachments/assets/17ef30fd-edfe-4795-85ad-dd1f619788cb
 <tr>
 <td width="30%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg" alt="Rice Ball, the smallest member of the family" width="100"></a> &nbsp; <a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg" alt="Peper and Rice Ball: the truck and the tiny kitten" width="100"></a><br><sub>Rice Ball, the smallest member of the family · Peper and Rice Ball: the truck and the tiny kitten</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg" alt="Rice Ball, the smallest member of the family" width="100"></a> &nbsp; <a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg" alt="Peper and Rice Ball: the truck and the tiny kitten" width="100"></a>
 
 </td>
 <td width="70%" valign="top">
@@ -318,7 +341,7 @@ Rice Ball also has the most nicknames in the house: Wobbly Cat, Poop Cat, biabia
 <tr>
 <td width="30%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050047_1699_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050047_1699_4.jpg" alt="A big voice, right from the beginning" width="100"></a> &nbsp; <a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050219_1737_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050219_1737_4.jpg" alt="Once I pick him up, we can cuddle" width="100"></a><br><sub>A big voice, right from the beginning · Once I pick him up, we can cuddle</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050047_1699_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050047_1699_4.jpg" alt="A big voice, right from the beginning" width="100"></a> &nbsp; <a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050219_1737_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050219_1737_4.jpg" alt="Once I pick him up, we can cuddle" width="100"></a>
 
 </td>
 <td width="70%" valign="top">
