@@ -58,6 +58,33 @@
 </tr>
 </table>
 
+### [Automatic Cat Feeder](https://github.com/yuxuan-518/automatic-cat-feeder)
+
+<table width="100%">
+<tr>
+<td width="70%" valign="top">
+
+<p>At Alba Studio, Shuoqi Yang, Wenhao Jia, and I built a prototype that stores dry cat food and dispenses it into a tray. We wanted to see <strong>how the shape of the hopper and the motor’s torque would affect the way kibble moves through the feeder.</strong></p>
+
+<p><strong>Design process.</strong> Early tests showed that kibble jammed and leaked near the hopper outlet. Shuoqi reduced the opening to 50 cm² and revised the guide path. The first NEMA17 motor struggled under the load, so I tested a higher-torque motor that could drive the mechanism. The replacement weighed about 5 kg, so we kept it separate from the feeder frame to reduce the risk of tipping.</p>
+
+<p><em>Technical note. The repository includes the STEP assembly, two standalone AVR C projects for the Mega 2560, and recordings of the physical prototype and motor test. The second controller uses a CL86Y-V20 driver and ramps the pulse frequency when starting and stopping.</em></p>
+
+<p><strong>My contribution.</strong> I developed both motor controllers and carried out electrical and motor testing. I set up independent timer outputs and serial control for the NEMA17 version, then added acceleration, deceleration, controlled reversal, and a repeatable test run for the higher-torque setup. I documented the wiring, driver settings, and behavior of each version.</p>
+
+<p><a href="https://github.com/yuxuan-518/automatic-cat-feeder#physical-prototype-and-mechanism-animations">Prototype and design</a> · <a href="https://github.com/yuxuan-518/automatic-cat-feeder/blob/main/docs/motor-and-automation.md">Motor and automation</a> · <a href="https://github.com/yuxuan-518/automatic-cat-feeder#contributors">Team contributions</a></p>
+
+</td>
+<td width="30%" valign="top" align="center">
+
+<p align="center"><a href="https://github.com/yuxuan-518/automatic-cat-feeder#cad-animations"><img src="https://raw.githubusercontent.com/yuxuan-518/automatic-cat-feeder/main/assets/images/assembly-animation.gif" alt="Feeder assembly and hopper" width="90%"></a><br><sub>Feeder assembly and hopper</sub></p>
+
+<p align="center"><a href="https://github.com/yuxuan-518/automatic-cat-feeder#cad-animations"><img src="https://raw.githubusercontent.com/yuxuan-518/automatic-cat-feeder/main/assets/images/underside-animation.gif" alt="Underside and dispensing mechanism" width="90%"></a><br><sub>Underside and dispensing mechanism</sub></p>
+
+</td>
+</tr>
+</table>
+
 ### [Two Kittens in the Backyard](https://github.com/yuxuan-518/kitten-temperature-monitor)
 
 <table width="100%">
