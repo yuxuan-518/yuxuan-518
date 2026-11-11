@@ -171,17 +171,17 @@ const shaoxuan = {
 
 You may already know about my family circumstances from my personal statement. Here, though, I would like to show you what my home looks like now.
 
-[Sichuan Pepper](#sichuan-pepper-花椒) · [Lychee](#lychee-荔枝) · [Rice Ball](#rice-ball-米团) · [Full photo album](https://github.com/yuxuan-518/cat-family-album)
+[Pepper](#pepper-花椒) · [Lychee](#lychee-荔枝) · [Rice Ball](#rice-ball-米团) · [Full photo album](https://github.com/yuxuan-518/cat-family-album)
 
-#### Sichuan Pepper 花椒
+#### Pepper 花椒
 
-This is Sichuan Pepper, the first cat I adopted. As you can see, he is a big, fluffy boy. What you might not guess is that his temper is just as big—especially when someone touches his backside! But he has plenty of adorable moments, too. Here are a few.
+This is Pepper, the first cat I adopted. As you can see, he is a big, fluffy boy. What you might not guess is that his temper is just as big—especially when someone touches his backside! But he has plenty of adorable moments, too. Here are a few.
 
 <table width="560">
 <tr>
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045526_1547_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045526_1547_4.jpg" alt="Sichuan Pepper, in all his fluffy glory" width="160"></a><br><sub>Sichuan Pepper, in all his fluffy glory</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045526_1547_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045526_1547_4.jpg" alt="Pepper, in all his fluffy glory" width="160"></a><br><sub>Pepper, in all his fluffy glory</sub>
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -197,10 +197,10 @@ This is Sichuan Pepper, the first cat I adopted. As you can see, he is a big, fl
 </tr>
 </table>
 
-Sichuan Pepper is very, very proud. I live in a basement, with small windows near my bed and desk that look out at ground level. Whenever I come back to my room or leave it, he jumps onto the corresponding windowsill.
+Pepper is very, very proud. I live in a basement, with small windows near my bed and desk that look out at ground level. Whenever I come back to my room or leave it, he jumps onto the corresponding windowsill.
 
 <details>
-<summary>▶ A little windowsill time with Sichuan Pepper · 25 seconds</summary>
+<summary>▶ A little windowsill time with Pepper · 25 seconds</summary>
 
 https://github.com/user-attachments/assets/1713b100-bc6f-4676-9772-10889fd9ed70
 
@@ -253,9 +253,9 @@ And this is Lychee, whom I have raised since he was tiny! Look how small he was 
 
 So cute!!!
 
-Of course, his arrival made Sichuan Pepper very unhappy. To help Sichuan Pepper adjust, I moved a mattress outside my room and slept there with him for two or three weeks. That left little Lychee free to drink his milk and sleep peacefully in my room, without getting swatted. (Hehe.)
+Of course, his arrival made Pepper very unhappy. To help Pepper adjust, I moved a mattress outside my room and slept there with him for two or three weeks. That left little Lychee free to drink his milk and sleep peacefully in my room, without getting swatted. (Hehe.)
 
-Now I often call Lychee my “little monkey.” He runs around all day, chasing Sichuan Pepper and trying to play with that enormous fluffy tail. Sichuan Pepper acts like a very aloof older brother: he mostly watches and pretends not to be interested.
+Now I often call Lychee my “little monkey.” He runs around all day, chasing Pepper and trying to play with that enormous fluffy tail. Pepper acts like a very aloof older brother: he mostly watches and pretends not to be interested.
 
 <table width="100%">
 <tr>
@@ -266,7 +266,7 @@ Now I often call Lychee my “little monkey.” He runs around all day, chasing 
 </td>
 <td width="70%" valign="top">
 
-If Sichuan Pepper is proud, Lychee is an expert at demanding affection. Whenever I am doing homework or coding at my desk, he comes up and keeps rubbing his little head against my hand until I stop. I pet him, he licks me, and I sometimes press my forehead gently against his.
+If Pepper is proud, Lychee is an expert at demanding affection. Whenever I am doing homework or coding at my desk, he comes up and keeps rubbing his little head against my hand until I stop. I pet him, he licks me, and I sometimes press my forehead gently against his.
 
 But he has rules. When he wants to be close, he rubs and licks and will not let me do anything else. When I want to pick him up or sneak in a kiss while he is playing, he pushes his little stinky paws against my face.
 
@@ -293,7 +293,7 @@ https://github.com/user-attachments/assets/17ef30fd-edfe-4795-85ad-dd1f619788cb
 <tr>
 <td width="30%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg" alt="Rice Ball, the smallest member of the family" width="100"></a> &nbsp; <a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg" alt="Sichuan Pepper and Rice Ball: the truck and the tiny kitten" width="100"></a><br><sub>Rice Ball, the smallest member of the family · Sichuan Pepper and Rice Ball: the truck and the tiny kitten</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg" alt="Rice Ball, the smallest member of the family" width="100"></a> &nbsp; <a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg" alt="Pepper and Rice Ball: the truck and the tiny kitten" width="100"></a><br><sub>Rice Ball, the smallest member of the family · Pepper and Rice Ball: the truck and the tiny kitten</sub>
 
 </td>
 <td width="70%" valign="top">
@@ -302,7 +302,7 @@ Last, here is Rice Ball.
 
 You may have seen the project about the two kittens in my backyard above. He is one of those kittens. The other was called Sesame; sadly, Sesame did not survive. Rice Ball stayed with me and has been growing up happily.
 
-Rice Ball and Sichuan Pepper are both long-haired cats, and since October they have often been cuddled up together. Sichuan Pepper is enormous next to him, though—like a truck parked in front of a tiny kitten!
+Rice Ball and Pepper are both long-haired cats, and since October they have often been cuddled up together. Pepper is enormous next to him, though—like a truck parked in front of a tiny kitten!
 
 </td>
 </tr>
