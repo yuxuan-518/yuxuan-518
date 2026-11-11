@@ -233,12 +233,12 @@ https://github.com/user-attachments/assets/1713b100-bc6f-4676-9772-10889fd9ed70
 
 <table width="100%">
 <tr>
-<td width="30%" valign="top" align="center">
+<td width="38%" valign="middle" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045646_1583_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045646_1583_4.jpg" alt="枕头已经是他的专属位置了" width="220"></a>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045646_1583_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045646_1583_4.jpg" alt="枕头已经是他的专属位置了" width="280"></a>
 
 </td>
-<td width="70%" valign="top">
+<td width="62%" valign="middle">
 
 他要抱抱的方式也很奇特。他会先跑到床上，停在离我大约一个半手臂远的地方——刚好是我躺着伸手够不到、必须起身才能抱到他的距离。然后，他会发出一声“mia”，半蹲在那里看看我，又看看窗台，就像在说：“你快过来抱我，不然我就要上窗台了。”
 
@@ -284,12 +284,12 @@ https://github.com/user-attachments/assets/1713b100-bc6f-4676-9772-10889fd9ed70
 
 <table width="100%">
 <tr>
-<td width="30%" valign="top" align="center">
+<td width="28%" valign="middle" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045959_1676_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045959_1676_4.jpg" alt="写代码时，书桌上总少不了他" width="220"></a>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045959_1676_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045959_1676_4.jpg" alt="写代码时，书桌上总少不了他" width="195"></a>
 
 </td>
-<td width="70%" valign="top">
+<td width="72%" valign="middle">
 
 如果说花椒是傲娇，那荔枝简直是“强制爱”的一把好手。每次我在书桌前写功课或者敲代码，他总要跑上来，用小脑袋不停地蹭我的手，打断我。我伸手摸摸他，他就开始舔我，我也会用额头和他贴贴。
 
@@ -316,12 +316,19 @@ https://github.com/user-attachments/assets/17ef30fd-edfe-4795-85ad-dd1f619788cb
 
 <table width="100%">
 <tr>
-<td width="30%" valign="top" align="center">
+<td width="50%" valign="middle" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg" alt="米团，家里最小的一只" width="100"></a> &nbsp; <a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg" alt="花椒和米团：“大卡车”和小不点" width="100"></a>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg" alt="米团，家里最小的一只" width="260"></a>
 
 </td>
-<td width="70%" valign="top">
+<td width="50%" valign="middle" align="center">
+
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg" alt="花椒和米团：“大卡车”和小不点" width="260"></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
 最后是这一只啦。
 
@@ -341,12 +348,19 @@ https://github.com/user-attachments/assets/17ef30fd-edfe-4795-85ad-dd1f619788cb
 
 <table width="100%">
 <tr>
-<td width="30%" valign="top" align="center">
+<td width="50%" valign="middle" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050047_1699_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050047_1699_4.jpg" alt="从小就是个大嗓门" width="100"></a> &nbsp; <a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050219_1737_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050219_1737_4.jpg" alt="抱起来以后，就可以贴贴了" width="100"></a>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050047_1699_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050047_1699_4.jpg" alt="从小就是个大嗓门" width="260"></a>
 
 </td>
-<td width="70%" valign="top">
+<td width="50%" valign="middle" align="center">
+
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050219_1737_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050219_1737_4.jpg" alt="抱起来以后，就可以贴贴了" width="260"></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
 还记得荔枝是怎么粘我的吗？米团又不一样。这个小矮子还没长大，跳不上书桌和床，就站在旁边，扯着嗓子对我喊。别看他小小一只，嗓门可大了，从小就喜欢喊！
 
