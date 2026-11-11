@@ -10,7 +10,7 @@
 <tr>
 <td width="70%" valign="top">
 
-<p>With Shuoqi Yang and Wenhao Jia, I explored <strong>how a floor tile could transfer footstep motion to a piezoelectric disc and store the resulting electrical energy.</strong> We began by replicating a published design. When its glue-stick contacts deformed and damaged discs in our build, the problem became more specific: <strong>How could we protect the disc while delivering a more consistent mechanical input?</strong></p>
+<p>I investigated <strong>how a floor tile could transfer footstep motion to a piezoelectric disc and store the resulting electrical energy.</strong> We began by replicating a published design. When its glue-stick contacts deformed and damaged discs in our build, the problem became more specific: <strong>How could we protect the disc while delivering a more consistent mechanical input?</strong></p>
 
 <p><strong>Design process:</strong> We replaced the glue contacts with sponge pads, then developed spring–impactor modules to explore separation and repeated contact. Variable responses in that second design led us to a center-punch-style mechanism that stores spring energy before a mechanical trigger releases it. <strong>Each revision grew from testing the previous structure and examining where its behavior differed from our expectations.</strong></p>
 
@@ -44,7 +44,7 @@
 <tr>
 <td>
 
-<p>During <strong>Cooper Union Summer STEM</strong>, Alex Wang and I noticed wrist discomfort after long hours at a computer and began researching carpal tunnel syndrome. That exploration led us to a more focused design question: <strong>Could a simple wearable help someone notice their wrist posture during computer use?</strong> <a href="https://www.nhs.uk/conditions/carpal-tunnel-syndrome/">NHS overview</a></p>
+<p>During <strong>Cooper Union Summer STEM</strong>, I looked into carpal tunnel syndrome after noticing wrist discomfort from long hours at a computer. I explored <strong>whether a simple wearable could help people notice their wrist posture while using a computer.</strong> <a href="https://www.nhs.uk/conditions/carpal-tunnel-syndrome/">NHS overview</a></p>
 
 <p><strong>Design process:</strong> We narrowed the broad health concern to one behavior a prototype could respond to: the hand bending up or down relative to the forearm. We explored placing one motion sensor on the hand and another on the forearm, then using feedback to draw attention to wrist posture. This gave us a concrete idea to build and investigate.</p>
 
@@ -64,9 +64,9 @@
 <tr>
 <td width="70%" valign="top">
 
-<p>At Alba Studio, Shuoqi Yang, Wenhao Jia, and I built a prototype that stores dry cat food and dispenses it into a tray. We wanted to see <strong>how the shape of the hopper and the motor’s torque would affect the way kibble moves through the feeder.</strong></p>
+<p>At Alba Studio, I designed the motor controls for a prototype that stores dry cat food and dispenses it into a tray. I investigated <strong>how much the choice of motor mattered when the mechanism was loaded with kibble.</strong></p>
 
-<p><strong>Design process.</strong> Early tests showed that kibble jammed and leaked near the hopper outlet. Shuoqi reduced the opening to 50 cm² and revised the guide path. The first NEMA17 motor struggled under the load, so I tested a higher-torque motor that could drive the mechanism. The replacement weighed about 5 kg, so we kept it separate from the feeder frame to reduce the risk of tipping.</p>
+<p><strong>Design process.</strong> Early tests showed that kibble jammed and leaked near the hopper outlet. The revised hopper used a 50 cm² outlet and a reshaped guide path. The first NEMA17 motor struggled under the load, so I tested a higher-torque motor that could drive the mechanism. The replacement weighed about 5 kg, so we kept it separate from the feeder frame to reduce the risk of tipping.</p>
 
 <p><em>Technical note. The repository includes the STEP assembly, two standalone AVR C projects for the Mega 2560, and recordings of the physical prototype and motor test. The second controller uses a CL86Y-V20 driver and ramps the pulse frequency when starting and stopping.</em></p>
 
@@ -143,7 +143,7 @@ During **Cooper Union STEM Saturdays: Inventor’s Lab — Data Visualization (2
 
 **Course work and learning:** The collection also includes Titanic passenger summaries, penny-mass distributions, a comparison of two chart formats, and program-selection recommendations. I practiced organizing data, calculating descriptive statistics, choosing charts for different questions, and explaining comparisons through bilingual speaking notes and a collaborative presentation.
 
-*Technical note: The final project includes a seven-worksheet Excel analysis, a 22-slide presentation, and Chinese/English rehearsal notes. Project pages display chart previews with short explanations. The original presentation credits Shaoxuan Xiong as producer and Richard Feng as editor.*
+*Technical note: The final project includes a seven-worksheet Excel analysis, a 22-slide presentation, and Chinese/English rehearsal notes. Project pages display chart previews with short explanations.*
 
 [Final project: charts and explanation](https://github.com/yuxuan-518/cooper-union-data-visualization/tree/main/final-project/employment-analysis#readme) · [Classroom exercises](https://github.com/yuxuan-518/cooper-union-data-visualization#classroom-exercises) · [Course learning](https://github.com/yuxuan-518/cooper-union-data-visualization#what-i-practiced-during-the-course)
 
