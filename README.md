@@ -231,12 +231,12 @@ https://github.com/user-attachments/assets/1713b100-bc6f-4676-9772-10889fd9ed70
 
 <table width="100%">
 <tr>
-<td width="30%" valign="top" align="center">
+<td width="38%" valign="middle" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045646_1583_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045646_1583_4.jpg" alt="That pillow is officially his now" width="220"></a>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045646_1583_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045646_1583_4.jpg" alt="That pillow is officially his now" width="280"></a>
 
 </td>
-<td width="70%" valign="top">
+<td width="62%" valign="middle">
 
 He also has a very particular way of asking for a cuddle. He first runs onto the bed and stops about one and a half arm lengths away—just far enough that I cannot reach him while lying down and have to sit up to pick him up. Then he gives a little “mia,” half-crouches, looks at me, and looks at the windowsill, as if to say, “Come and get me, or I am going up there.”
 
@@ -282,12 +282,12 @@ Now I often call Lychee my “little monkey.” He runs around all day, chasing 
 
 <table width="100%">
 <tr>
-<td width="30%" valign="top" align="center">
+<td width="28%" valign="middle" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045959_1676_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045959_1676_4.jpg" alt="My desk companion while I code" width="220"></a>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045959_1676_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045959_1676_4.jpg" alt="My desk companion while I code" width="195"></a>
 
 </td>
-<td width="70%" valign="top">
+<td width="72%" valign="middle">
 
 If Peper is proud, Lychee is an expert at demanding affection. Whenever I am doing homework or coding at my desk, he comes up and keeps rubbing his little head against my hand until I stop. I pet him, he licks me, and I sometimes press my forehead gently against his.
 
@@ -314,12 +314,19 @@ https://github.com/user-attachments/assets/17ef30fd-edfe-4795-85ad-dd1f619788cb
 
 <table width="100%">
 <tr>
-<td width="30%" valign="top" align="center">
+<td width="50%" valign="middle" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg" alt="Rice Ball, the smallest member of the family" width="100"></a> &nbsp; <a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg" alt="Peper and Rice Ball: the truck and the tiny kitten" width="100"></a>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg" alt="Rice Ball, the smallest member of the family" width="260"></a>
 
 </td>
-<td width="70%" valign="top">
+<td width="50%" valign="middle" align="center">
+
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg" alt="Peper and Rice Ball: the truck and the tiny kitten" width="260"></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
 Last, here is Rice Ball.
 
@@ -339,12 +346,19 @@ Rice Ball also has the most nicknames in the house: Wobbly Cat, Poop Cat, biabia
 
 <table width="100%">
 <tr>
-<td width="30%" valign="top" align="center">
+<td width="50%" valign="middle" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050047_1699_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050047_1699_4.jpg" alt="A big voice, right from the beginning" width="100"></a> &nbsp; <a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050219_1737_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050219_1737_4.jpg" alt="Once I pick him up, we can cuddle" width="100"></a>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050047_1699_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050047_1699_4.jpg" alt="A big voice, right from the beginning" width="260"></a>
 
 </td>
-<td width="70%" valign="top">
+<td width="50%" valign="middle" align="center">
+
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050219_1737_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050219_1737_4.jpg" alt="Once I pick him up, we can cuddle" width="260"></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
 Remember how Lychee asks for affection? Rice Ball has his own approach. He is still too small to jump onto my desk or bed, so he stands beside it and shouts for me. He may be tiny, but his voice certainly is not. He has been loud since he was little!
 
