@@ -316,19 +316,12 @@ https://github.com/user-attachments/assets/17ef30fd-edfe-4795-85ad-dd1f619788cb
 
 <table width="100%">
 <tr>
-<td width="50%" valign="middle" align="center">
+<td width="48%" valign="middle" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg" alt="米团，家里最小的一只" width="195"></a>
-
-</td>
-<td width="50%" valign="middle" align="center">
-
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg" alt="花椒和米团：“大卡车”和小不点" width="195"></a>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg" alt="米团，家里最小的一只" width="48%"></a> &nbsp; <a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg" alt="花椒和米团：“大卡车”和小不点" width="48%"></a>
 
 </td>
-</tr>
-<tr>
-<td colspan="2">
+<td width="52%" valign="middle">
 
 最后是这一只啦。
 
@@ -348,19 +341,12 @@ https://github.com/user-attachments/assets/17ef30fd-edfe-4795-85ad-dd1f619788cb
 
 <table width="100%">
 <tr>
-<td width="50%" valign="middle" align="center">
+<td width="48%" valign="middle" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050047_1699_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050047_1699_4.jpg" alt="从小就是个大嗓门" width="195"></a>
-
-</td>
-<td width="50%" valign="middle" align="center">
-
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050219_1737_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050219_1737_4.jpg" alt="抱起来以后，就可以贴贴了" width="195"></a>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050047_1699_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050047_1699_4.jpg" alt="从小就是个大嗓门" width="48%"></a> &nbsp; <a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050219_1737_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050219_1737_4.jpg" alt="抱起来以后，就可以贴贴了" width="48%"></a>
 
 </td>
-</tr>
-<tr>
-<td colspan="2">
+<td width="52%" valign="middle">
 
 还记得荔枝是怎么粘我的吗？米团又不一样。这个小矮子还没长大，跳不上书桌和床，就站在旁边，扯着嗓子对我喊。别看他小小一只，嗓门可大了，从小就喜欢喊！
 
