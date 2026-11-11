@@ -34,15 +34,12 @@
 ### [双 MPU6050 姿态反馈原型](https://github.com/yuxuan-518/carpal-tunnel-detection)
 
 <table width="100%">
+<tr aria-hidden="true"></tr>
 <tr>
-<td align="center">
+<td>
 
 <p align="center"><a href="https://github.com/yuxuan-518/carpal-tunnel-detection#prototype-and-demo"><img src="https://raw.githubusercontent.com/yuxuan-518/yuxuan-518/e76867bf0c30a2567fa8998bc958fcdc9c98134d/assets/mpu6050-prototype-banner-dark.png" alt="双 MPU6050 实物原型 · Arduino Uno 与 LED 反馈电路" width="92%"></a><br><sub>双 MPU6050 实物原型 · Arduino Uno 与 LED 反馈电路</sub></p>
 
-</td>
-</tr>
-<tr>
-<td>
 
 <p>在 <strong>Cooper Union Summer STEM</strong> 期间，我留意到长时间使用电脑后手腕会不舒服，于是查阅了腕管综合征的资料，并探索<strong>怎样用一个简单的可穿戴原型，帮助使用者留意用电脑时的手腕姿势。</strong> <a href="https://www.nhs.uk/conditions/carpal-tunnel-syndrome/">NHS 症状与风险因素介绍</a></p>
 
@@ -88,6 +85,7 @@
 ### [后院里的两只小猫](https://github.com/yuxuan-518/kitten-temperature-monitor/blob/main/README.zh-CN.md)
 
 <table width="100%">
+<tr aria-hidden="true"></tr>
 <tr>
 <td width="34%" valign="top" align="center">
 
@@ -115,6 +113,10 @@
 
 ### [ATmega2560——嵌入式基础学习](https://github.com/yuxuan-518/atmega2560-embedded-foundations)
 
+<table width="100%">
+<tr>
+<td>
+
 在 Cooper Union 的六周暑期 STEM 项目结束后，我意识到自己需要更多时间梳理嵌入式开发的基础。在浏览 Cornell 的 ECE 课程体系时，ECE 4760 中的鸟鸣合成、数字高尔顿板和反馈控制项目吸引了我。**为了在十二年级继续深入这些内容，我开始探索：怎样通过一系列渐进练习，把零散的知识连接成自己能够理解和运用的体系？**
 
 **学习过程：**我以 ECE 4760 所需的能力为参照，借助 GPT 将目标拆成适合 ATmega2560 的基础练习。从 LED、按钮和寄存器操作开始，逐步加入定时器、中断、串口、传感器和运动控制，最后组织成综合系统。**学习重点也逐渐从实现单个功能，转向理解多个模块怎样协同运行，以及它们为什么会互相影响。**
@@ -125,7 +127,16 @@
 
 [学习动机与路线](https://github.com/yuxuan-518/atmega2560-embedded-foundations/blob/main/README.zh-CN.md#为什么开始) · [代表项目与排错经历](https://github.com/yuxuan-518/atmega2560-embedded-foundations/blob/main/README.zh-CN.md#三个推荐阅读的项目) · [源代码](https://github.com/yuxuan-518/atmega2560-embedded-foundations/tree/main/code)
 
+</td>
+</tr>
+</table>
+
 ### [Kesty — 学习管理应用](https://github.com/yuxuan-518/kesty-support)
+
+<table width="100%">
+<tr aria-hidden="true"></tr>
+<tr>
+<td>
 
 申请季、考试准备和研究任务常常同时占用学生的时间。像完成 Common App 申请或写一篇论文这样的大目标，并不是一个待办事项，而是由许多不同的部分组成。
 
@@ -137,7 +148,15 @@
 
 **[在 App Store 下载](https://apps.apple.com/us/app/kesty/id6760517321)** · [源代码与演示](https://github.com/yuxuan-518/kesty-support#readme)
 
+</td>
+</tr>
+</table>
+
 ### [数据可视化与叙事 — Cooper Union](https://github.com/yuxuan-518/cooper-union-data-visualization/blob/main/README.zh-CN.md)
+
+<table width="100%">
+<tr>
+<td>
 
 在 **2024 年 Cooper Union STEM Saturdays 的 Inventor’s Lab: Data Visualization 课程**中，我练习把表格整理成听众能够理解的图表。期末项目从年龄、学历和性别三个角度，比较各群体中有工作的人所占的比例。**通过图表，读者可以直接看到群体差异和时间变化，不必逐行阅读原始数据。**
 
@@ -146,6 +165,10 @@
 *技术说明：期末成果包括 7 个工作表的 Excel 分析、22 页演示文稿和中英双语排练稿。各项目页面直接展示图表预览与简短说明。*
 
 [期末项目图表与讲解](https://github.com/yuxuan-518/cooper-union-data-visualization/blob/main/final-project/employment-analysis/README.zh-CN.md) · [课堂练习](https://github.com/yuxuan-518/cooper-union-data-visualization/blob/main/README.zh-CN.md#课堂练习) · [课程学习收获](https://github.com/yuxuan-518/cooper-union-data-visualization/blob/main/README.zh-CN.md#我在这门课中练习了什么)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -183,17 +206,17 @@ const shaoxuan = {
 <tr>
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045526_1547_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045526_1547_4.jpg" alt="花椒：大胖子本猫" width="160"></a><br><sub>花椒：大胖子本猫</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045526_1547_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045526_1547_4.jpg" alt="花椒：大胖子本猫" width="160"></a>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045806_1615_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045806_1615_4.jpg" alt="在窗台上看着我的花椒" width="160"></a><br><sub>在窗台上看着我的花椒</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045806_1615_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045806_1615_4.jpg" alt="在窗台上看着我的花椒" width="160"></a>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045329_1504_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045329_1504_4.jpg" alt="也有乖乖让人抱的时候" width="160"></a><br><sub>也有乖乖让人抱的时候</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045329_1504_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045329_1504_4.jpg" alt="也有乖乖让人抱的时候" width="160"></a>
 
 </td>
 </tr>
@@ -212,7 +235,7 @@ https://github.com/user-attachments/assets/1713b100-bc6f-4676-9772-10889fd9ed70
 <tr>
 <td width="30%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045646_1583_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045646_1583_4.jpg" alt="枕头已经是他的专属位置了" width="220"></a><br><sub>枕头已经是他的专属位置了</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045646_1583_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045646_1583_4.jpg" alt="枕头已经是他的专属位置了" width="220"></a>
 
 </td>
 <td width="70%" valign="top">
@@ -237,17 +260,17 @@ https://github.com/user-attachments/assets/1713b100-bc6f-4676-9772-10889fd9ed70
 <tr>
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045818_1620_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045818_1620_4.jpg" alt="荔枝刚到家的时候" width="160"></a><br><sub>荔枝刚到家的时候</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045818_1620_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045818_1620_4.jpg" alt="荔枝刚到家的时候" width="160"></a>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045855_1637_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045855_1637_4.jpg" alt="那时候真的只有这么小" width="160"></a><br><sub>那时候真的只有这么小</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045855_1637_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045855_1637_4.jpg" alt="那时候真的只有这么小" width="160"></a>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050131_1719_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050131_1719_4.jpg" alt="现在的荔枝" width="160"></a><br><sub>现在的荔枝</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050131_1719_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050131_1719_4.jpg" alt="现在的荔枝" width="160"></a>
 
 </td>
 </tr>
@@ -263,7 +286,7 @@ https://github.com/user-attachments/assets/1713b100-bc6f-4676-9772-10889fd9ed70
 <tr>
 <td width="30%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045959_1676_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045959_1676_4.jpg" alt="写代码时，书桌上总少不了他" width="220"></a><br><sub>写代码时，书桌上总少不了他</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045959_1676_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109045959_1676_4.jpg" alt="写代码时，书桌上总少不了他" width="220"></a>
 
 </td>
 <td width="70%" valign="top">
@@ -295,7 +318,7 @@ https://github.com/user-attachments/assets/17ef30fd-edfe-4795-85ad-dd1f619788cb
 <tr>
 <td width="30%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg" alt="米团，家里最小的一只" width="100"></a> &nbsp; <a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg" alt="花椒和米团：“大卡车”和小不点" width="100"></a><br><sub>米团，家里最小的一只 · 花椒和米团：“大卡车”和小不点</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050230_1742_4.jpg" alt="米团，家里最小的一只" width="100"></a> &nbsp; <a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050127_1717_4.jpg" alt="花椒和米团：“大卡车”和小不点" width="100"></a>
 
 </td>
 <td width="70%" valign="top">
@@ -320,7 +343,7 @@ https://github.com/user-attachments/assets/17ef30fd-edfe-4795-85ad-dd1f619788cb
 <tr>
 <td width="30%" valign="top" align="center">
 
-<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050047_1699_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050047_1699_4.jpg" alt="从小就是个大嗓门" width="100"></a> &nbsp; <a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050219_1737_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050219_1737_4.jpg" alt="抱起来以后，就可以贴贴了" width="100"></a><br><sub>从小就是个大嗓门 · 抱起来以后，就可以贴贴了</sub>
+<a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050047_1699_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050047_1699_4.jpg" alt="从小就是个大嗓门" width="100"></a> &nbsp; <a href="https://github.com/yuxuan-518/cat-family-album/blob/main/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050219_1737_4.jpg"><img src="https://raw.githubusercontent.com/yuxuan-518/cat-family-album/a28e818b342116926e7c960e7df64e58d97c022e/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261109050219_1737_4.jpg" alt="抱起来以后，就可以贴贴了" width="100"></a>
 
 </td>
 <td width="70%" valign="top">
