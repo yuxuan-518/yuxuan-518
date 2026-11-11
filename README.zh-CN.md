@@ -10,7 +10,7 @@
 <tr>
 <td width="70%" valign="top">
 
-<p>我与 Shuoqi Yang、Wenhao Jia 一起探索：<strong>怎样通过地砖结构，将脚步运动传递给压电片，并把产生的电能储存起来？</strong> 我们从复现一篇已发表的设计开始。当胶棒接触件在我们的实物中变形并损伤压电片后，研究问题变得更具体：<strong>怎样在保护压电片的同时，让机械激励更加稳定？</strong></p>
+<p>我研究了<strong>怎样通过地砖结构把脚步运动传递给压电片，并储存产生的电能。</strong> 我们从复现一篇已发表的设计开始。当胶棒接触件在我们的实物中变形并损伤压电片后，研究问题变得更具体：<strong>怎样在保护压电片的同时，让机械激励更加稳定？</strong></p>
 
 <p><strong>设计过程：</strong> 我们先用海绵替换胶棒接触件，再开发弹簧与撞击物组成的模块，探索脱离和重复接触。第二代结构的输出波动促使我们进一步采用中心冲式机构，先压缩弹簧储能，再通过机械触发释放。<strong>每次改进都来自对上一代结构的实际测试，以及对实测行为与预期差异的分析。</strong></p>
 
@@ -44,7 +44,7 @@
 <tr>
 <td>
 
-<p>在 <strong>Cooper Union Summer STEM</strong> 期间，我和 Alex Wang 注意到长时间使用电脑后会有手腕不适，于是开始查阅腕管综合征的资料。这段探索引出了一个更具体的设计问题：<strong>能否用一个简单的可穿戴原型，帮助使用者留意电脑工作时的手腕姿势？</strong> <a href="https://www.nhs.uk/conditions/carpal-tunnel-syndrome/">NHS 症状与风险因素介绍</a></p>
+<p>在 <strong>Cooper Union Summer STEM</strong> 期间，我留意到长时间使用电脑后手腕会不舒服，于是查阅了腕管综合征的资料，并探索<strong>怎样用一个简单的可穿戴原型，帮助使用者留意用电脑时的手腕姿势。</strong> <a href="https://www.nhs.uk/conditions/carpal-tunnel-syndrome/">NHS 症状与风险因素介绍</a></p>
 
 <p><strong>设计思路：</strong>我们把宽泛的健康关注点收窄到一种原型可以观察的动作：手相对于前臂向上或向下弯曲。我们尝试在手部和前臂各放置一个动作传感器，并通过反馈提醒佩戴者留意手腕姿势。这样，最初的健康问题就变成了一个可以动手制作和探索的具体设计。</p>
 
@@ -64,9 +64,9 @@
 <tr>
 <td width="70%" valign="top">
 
-<p>在 Alba Studio，我和 Shuoqi Yang、Wenhao Jia 一起做了一台能储存干猫粮并将其送入托盘的喂粮原型。我们想弄清楚<strong>料斗的形状和电机的扭矩会怎样影响猫粮通过下粮机构。</strong></p>
+<p>在 Alba Studio，我为一台自动喂粮原型设计了电机控制系统。原型能储存干猫粮，并把猫粮送入托盘。我研究了<strong>装入猫粮后，不同电机能否带动下粮机构。</strong></p>
 
-<p><strong>设计过程。</strong>最初的实物测试发现，猫粮容易在料斗出口附近卡住或漏出。Shuoqi 把出口缩到 50 cm²，并调整了导流路径。第一版 NEMA17 电机带载时扭矩不足，我随后测试了能带动下粮机构的高扭矩电机。新电机约重 5 kg，我们把它与主体分开布置，以降低倾倒风险。</p>
+<p><strong>设计过程。</strong>最初的实物测试发现，猫粮容易在料斗出口附近卡住或漏出。改进后的料斗采用 50 cm² 的出口，并调整了导流路径。第一版 NEMA17 电机带载时扭矩不足，我随后测试了能带动下粮机构的高扭矩电机。新电机约重 5 kg，我们把它与主体分开布置，以降低倾倒风险。</p>
 
 <p><em>技术说明。仓库收录了 STEP 装配模型、两套用于 Mega 2560 的独立 AVR C 工程，以及实物和电机测试录像。第二版控制器使用 CL86Y-V20 驱动器，在起停时逐步调整脉冲频率。</em></p>
 
@@ -143,7 +143,7 @@
 
 **课程实践与学习收获：**材料还包括 Titanic 乘客统计、硬币质量分布、两种图表形式的比较，以及节目选择建议。我练习了整理数据、计算描述统计量、根据问题选择图表，并通过双语讲稿和合作演示向听众解释比较结果。
 
-*技术说明：期末成果包括 7 个工作表的 Excel 分析、22 页演示文稿和中英双语排练稿。各项目页面直接展示图表预览与简短说明。原演示文稿署名为 Shaoxuan Xiong（制作）和 Richard Feng（编辑）。*
+*技术说明：期末成果包括 7 个工作表的 Excel 分析、22 页演示文稿和中英双语排练稿。各项目页面直接展示图表预览与简短说明。*
 
 [期末项目图表与讲解](https://github.com/yuxuan-518/cooper-union-data-visualization/blob/main/final-project/employment-analysis/README.zh-CN.md) · [课堂练习](https://github.com/yuxuan-518/cooper-union-data-visualization/blob/main/README.zh-CN.md#课堂练习) · [课程学习收获](https://github.com/yuxuan-518/cooper-union-data-visualization/blob/main/README.zh-CN.md#我在这门课中练习了什么)
 
